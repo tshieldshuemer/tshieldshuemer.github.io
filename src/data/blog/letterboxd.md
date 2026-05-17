@@ -15,3 +15,19 @@ tags:
 ## 1. Fitzcarraldo - Werner Herzog
 [spotify link](https://open.spotify.com/intl-de/track/3nSIvZpvO6kU87bmSGwZVV?si=cb28a19fdaf84b80)
 
+Conclave
+No Country for Old Men
+12 Angry Men
+Apocalypse Now
+
+Andrei Tarkovsky ?
+
+Amadeus 1984?
+
+The Hunt
+
+Come and See
+
+Das Boot
+
+Ikiru
