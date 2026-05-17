@@ -314,23 +314,17 @@ On this page you might find content relating to
   loop();
 
   function open() {
-  modal.classList.remove('hidden');
-  modal.classList.add('flex');
-  modal.style.display = 'flex';
-  reset();
-  state.running = true;
-}
+    modal.classList.remove('hidden');
+    modal.classList.add('flex');
+    reset();
+  }
   function close() {
     modal.classList.add('hidden');
     modal.classList.remove('flex');
     state.running = false;
   }
 
-  trigger.addEventListener('click', (e) => {
-  e.preventDefault();
-  e.stopPropagation();
-  open();
-});
+  trigger.addEventListener('click', open);
   closeBtn.addEventListener('click', close);
   window.addEventListener('keydown', e => {
     if (modal.classList.contains('hidden')) return;
