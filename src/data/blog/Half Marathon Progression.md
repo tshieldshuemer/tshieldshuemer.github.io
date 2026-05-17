@@ -28,6 +28,6 @@ The same dataset but with a polyfit:
  <img src="/HM PolyFits.png" alt="Run Data Plot" width="2000" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ## Conclusion
-I find it quite satisfying to see progress so clearly, it helps to motivate further efforts seeing how they pay off. I also thought it was quite cool to see that I'm getting more consistent at keeping to a constant pace throughout the run.
+I found it quite satisfying to see progress made between each run as well as increased pacing consistency.
  
 
