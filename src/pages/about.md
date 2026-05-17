@@ -54,7 +54,7 @@ On this page you might find content relating to
   const scoreEl = document.getElementById('anteater-score');
   const bestEl = document.getElementById('anteater-best');
   const W = canvas.width, H = canvas.height;
-  const GROUND_Y = 140;
+  const GROUND_Y = 100;
 
   let best = parseInt(localStorage.getItem('anteaterBest') || '0', 10);
   bestEl.textContent = best;
@@ -63,7 +63,7 @@ On this page you might find content relating to
   function reset() {
     state = {
       running: true, gameOver: false, score: 0, speed: 6,
-      anteater: { x: 40, y: GROUND_Y, vy: 0, w: 52, h: 32, ducking: false, onGround: true },
+      anteater: { x: 60, y: GROUND_Y, vy: 0, ducking: false, onGround: true },
       obstacles: [], clouds: [{ x: 300, y: 30 }, { x: 500, y: 50 }],
       groundOffset: 0, spawnTimer: 60, frame: 0
     };
@@ -73,19 +73,41 @@ On this page you might find content relating to
 
   function jump() {
     if (state.gameOver) { reset(); return; }
-    if (state.anteater.onGround) { state.anteater.vy = -12; state.anteater.onGround = false; }
+    if (state.anteater.onGround) { state.anteater.vy = -13; state.anteater.onGround = false; }
   }
   function duck(on) { state.anteater.ducking = on && state.anteater.onGround; }
 
   function spawnObstacle() {
-    if (Math.random() < 0.75) {
+    if (Math.random() < 0.7) {
       const v = Math.floor(Math.random() * 3);
-      const widths = [22, 30, 40], heights = [22, 28, 24];
-      state.obstacles.push({ type: 'mound', x: W, y: GROUND_Y + 40 - heights[v], w: widths[v], h: heights[v] });
+      const widths = [22, 30, 40], heights = [22, 30, 26];
+      state.obstacles.push({ type: 'mound', x: W, y: GROUND_Y + 70 - heights[v], w: widths[v], h: heights[v] });
     } else {
-      const ys = [GROUND_Y - 5, GROUND_Y + 15, GROUND_Y + 30];
-      state.obstacles.push({ type: 'bird', x: W, y: ys[Math.floor(Math.random() * 3)], w: 30, h: 20, flap: 0 });
+      state.obstacles.push({ type: 'bird', x: W, y: GROUND_Y + 30, w: 30, h: 16, flap: 0 });
     }
+  }
+
+  function getAnteaterBox() {
+    const a = state.anteater;
+    if (a.ducking) {
+      return { x: a.x + 4, y: a.y + 44, w: 28, h: 24 };
+    }
+    if (!a.onGround) {
+      return { x: a.x + 8, y: a.y + 28, w: 26, h: 28 };
+    }
+    return { x: a.x + 4, y: a.y + 20, w: 22, h: 52 };
+  }
+
+  function getObstacleBox(o) {
+    if (o.type === 'mound') {
+      return { x: o.x + 4, y: o.y + 2, w: o.w - 8, h: o.h - 2 };
+    }
+    return { x: o.x + 4, y: o.y + 4, w: o.w - 8, h: o.h - 8 };
+  }
+
+  function boxesOverlap(a, b) {
+    return a.x < b.x + b.w && a.x + a.w > b.x &&
+           a.y < b.y + b.h && a.y + a.h > b.y;
   }
 
   function update() {
@@ -104,7 +126,7 @@ On this page you might find content relating to
     state.spawnTimer--;
     if (state.spawnTimer <= 0) {
       spawnObstacle();
-      state.spawnTimer = 60 + Math.random() * 60 - Math.min(30, state.speed * 2);
+      state.spawnTimer = 70 + Math.random() * 60 - Math.min(30, state.speed * 2);
     }
     state.obstacles.forEach(o => {
       o.x -= state.speed;
@@ -112,18 +134,15 @@ On this page you might find content relating to
     });
     state.obstacles = state.obstacles.filter(o => o.x + o.w > 0);
 
-    const ax = state.anteater.x + 14;
-    const aw = state.anteater.ducking ? 30 : 26;
-    const ah = state.anteater.ducking ? 18 : 24;
-    const ay = state.anteater.ducking ? state.anteater.y + 22 : state.anteater.y + 16;
-    state.obstacles.forEach(o => {
-      if (ax + 4 < o.x + o.w - 4 && ax + aw - 4 > o.x + 4 &&
-          ay + 4 < o.y + o.h - 2 && ay + ah > o.y + 4) {
+    const aBox = getAnteaterBox();
+    for (const o of state.obstacles) {
+      if (boxesOverlap(aBox, getObstacleBox(o))) {
         state.gameOver = true; state.running = false;
         const s = Math.floor(state.score);
         if (s > best) { best = s; localStorage.setItem('anteaterBest', best); bestEl.textContent = best; }
+        break;
       }
-    });
+    }
 
     state.score += 0.25;
     scoreEl.textContent = Math.floor(state.score);
@@ -140,52 +159,94 @@ On this page you might find content relating to
     };
   }
 
-  function drawAnteater(dx, dy) {
+  function drawTpose(dx, dy) {
     const { fg, bg } = getThemeColors();
     ctx.fillStyle = fg;
+    ctx.fillRect(dx - 8, dy + 22, 6, 20);
+    ctx.fillRect(dx - 2, dy + 20, 4, 24);
+    ctx.fillRect(dx - 10, dy + 26, 4, 12);
+    ctx.fillRect(dx - 6, dy + 18, 6, 4);
+    ctx.fillRect(dx - 6, dy + 42, 6, 4);
+    ctx.fillRect(dx + 2, dy + 22, 22, 24);
+    ctx.fillRect(dx, dy + 26, 2, 16);
+    ctx.fillRect(dx + 24, dy + 26, 2, 16);
+    ctx.fillRect(dx - 8, dy + 28, 10, 4);
+    ctx.fillRect(dx + 24, dy + 28, 10, 4);
+    ctx.fillRect(dx - 11, dy + 26, 3, 2);
+    ctx.fillRect(dx + 31, dy + 26, 3, 2);
+    ctx.fillRect(dx + 6, dy + 14, 14, 10);
+    ctx.fillRect(dx + 5, dy + 16, 1, 6);
+    ctx.fillRect(dx + 20, dy + 16, 1, 6);
+    ctx.fillRect(dx + 20, dy + 16, 14, 4);
+    ctx.fillRect(dx + 32, dy + 17, 3, 2);
+    ctx.fillRect(dx + 16, dy + 10, 3, 4);
+    ctx.fillStyle = bg; ctx.fillRect(dx + 14, dy + 17, 2, 2); ctx.fillStyle = fg;
+    ctx.fillRect(dx + 6, dy + 46, 14, 6);
+    ctx.fillRect(dx + 6, dy + 52, 5, 18);
+    ctx.fillRect(dx + 15, dy + 52, 5, 18);
+    ctx.fillRect(dx + 3, dy + 70, 9, 2);
+    ctx.fillRect(dx + 14, dy + 70, 9, 2);
+  }
 
-    if (state.anteater.ducking) {
-      ctx.fillRect(dx - 4, dy + 22, 10, 14);
-      ctx.fillRect(dx - 6, dy + 26, 4, 8);
-      ctx.fillRect(dx + 2, dy + 20, 6, 4);
-      ctx.fillRect(dx + 4, dy + 24, 32, 14);
-      ctx.fillRect(dx + 30, dy + 22, 8, 6);
-      ctx.fillRect(dx + 36, dy + 22, 8, 8);
-      ctx.fillRect(dx + 42, dy + 26, 12, 3);
-      ctx.fillRect(dx + 50, dy + 27, 4, 2);
-      ctx.fillStyle = bg; ctx.fillRect(dx + 38, dy + 24, 2, 2); ctx.fillStyle = fg;
-      const legPhase = Math.floor(state.frame / 4) % 2;
-      ctx.fillRect(dx + 8 + legPhase * 2, dy + 38, 3, 4);
-      ctx.fillRect(dx + 28 - legPhase * 2, dy + 38, 3, 4);
-      return;
-    }
-
-    ctx.fillRect(dx, dy + 8, 4, 18);
-    ctx.fillRect(dx + 4, dy + 6, 4, 22);
-    ctx.fillRect(dx - 2, dy + 12, 4, 12);
-    ctx.fillRect(dx + 2, dy + 4, 6, 4);
-    ctx.fillRect(dx + 2, dy + 26, 6, 4);
-    ctx.fillRect(dx + 8, dy + 10, 22, 18);
-    ctx.fillRect(dx + 28, dy + 6, 6, 16);
-    ctx.fillRect(dx + 32, dy + 4, 6, 10);
-    ctx.fillRect(dx + 36, dy + 4, 8, 8);
-    ctx.fillRect(dx + 42, dy + 8, 10, 3);
-    ctx.fillRect(dx + 50, dy + 9, 2, 2);
-    ctx.fillRect(dx + 38, dy + 2, 3, 3);
-    ctx.fillStyle = bg; ctx.fillRect(dx + 38, dy + 6, 2, 2); ctx.fillStyle = fg;
-
-    if (state.anteater.onGround && !state.gameOver) {
-      const phase = Math.floor(state.frame / 5) % 2;
-      if (phase === 0) {
-        ctx.fillRect(dx + 10, dy + 28, 4, 8);
-        ctx.fillRect(dx + 24, dy + 28, 4, 6);
-      } else {
-        ctx.fillRect(dx + 10, dy + 28, 4, 6);
-        ctx.fillRect(dx + 24, dy + 28, 4, 8);
-      }
+  function drawDuck(dx, dy) {
+    const { fg, bg } = getThemeColors();
+    ctx.fillStyle = fg;
+    const by = dy + 40;
+    ctx.fillRect(dx - 8, by + 14, 6, 16);
+    ctx.fillRect(dx - 2, by + 12, 4, 20);
+    ctx.fillRect(dx - 10, by + 18, 4, 10);
+    ctx.fillRect(dx - 6, by + 10, 6, 4);
+    ctx.fillRect(dx - 6, by + 32, 6, 4);
+    ctx.fillRect(dx + 2, by + 14, 26, 18);
+    ctx.fillRect(dx + 28, by + 12, 4, 14);
+    ctx.fillRect(dx + 32, by + 10, 6, 10);
+    ctx.fillRect(dx + 38, by + 14, 14, 3);
+    ctx.fillRect(dx + 50, by + 15, 3, 2);
+    ctx.fillRect(dx + 34, by + 6, 3, 4);
+    ctx.fillStyle = bg; ctx.fillRect(dx + 34, by + 12, 2, 2); ctx.fillStyle = fg;
+    const phase = Math.floor(state.frame / 5) % 2;
+    if (phase === 0) {
+      ctx.fillRect(dx + 6, by + 32, 4, 6);
+      ctx.fillRect(dx + 22, by + 32, 4, 4);
     } else {
-      ctx.fillRect(dx + 12, dy + 26, 4, 4);
-      ctx.fillRect(dx + 22, dy + 26, 4, 4);
+      ctx.fillRect(dx + 6, by + 32, 4, 4);
+      ctx.fillRect(dx + 22, by + 32, 4, 6);
+    }
+    ctx.fillRect(dx + 3, by + 38, 9, 2);
+    ctx.fillRect(dx + 22, by + 38, 9, 2);
+  }
+
+  function drawJump(dx, dy) {
+    const { fg, bg } = getThemeColors();
+    ctx.fillStyle = fg;
+    ctx.fillRect(dx - 6, dy + 22, 6, 16);
+    ctx.fillRect(dx, dy + 20, 4, 20);
+    ctx.fillRect(dx - 8, dy + 26, 4, 10);
+    ctx.fillRect(dx - 4, dy + 18, 6, 4);
+    ctx.fillRect(dx - 4, dy + 40, 6, 4);
+    ctx.fillRect(dx + 4, dy + 20, 22, 22);
+    ctx.fillRect(dx + 2, dy + 24, 2, 14);
+    ctx.fillRect(dx + 26, dy + 24, 2, 14);
+    ctx.fillRect(dx + 2, dy + 30, 6, 4);
+    ctx.fillRect(dx + 22, dy + 30, 6, 4);
+    ctx.fillRect(dx + 8, dy + 14, 14, 8);
+    ctx.fillRect(dx + 7, dy + 16, 1, 4);
+    ctx.fillRect(dx + 22, dy + 16, 1, 4);
+    ctx.fillRect(dx + 22, dy + 16, 14, 4);
+    ctx.fillRect(dx + 34, dy + 17, 3, 2);
+    ctx.fillRect(dx + 18, dy + 10, 3, 4);
+    ctx.fillStyle = bg; ctx.fillRect(dx + 16, dy + 17, 2, 2); ctx.fillStyle = fg;
+    ctx.fillRect(dx + 8, dy + 42, 5, 4);
+    ctx.fillRect(dx + 17, dy + 42, 5, 4);
+  }
+
+  function drawAnteater(dx, dy) {
+    if (state.anteater.ducking) {
+      drawDuck(dx, dy);
+    } else if (!state.anteater.onGround) {
+      drawJump(dx, dy);
+    } else {
+      drawTpose(dx, dy);
     }
   }
 
@@ -203,10 +264,10 @@ On this page you might find content relating to
     });
     ctx.globalAlpha = 1;
 
-    ctx.fillRect(0, GROUND_Y + 40, W, 2);
+    ctx.fillRect(0, GROUND_Y + 70, W, 2);
     for (let x = state.groundOffset; x < W; x += 20) {
-      ctx.fillRect(x, GROUND_Y + 44, 8, 1);
-      ctx.fillRect(x + 12, GROUND_Y + 46, 4, 1);
+      ctx.fillRect(x, GROUND_Y + 74, 8, 1);
+      ctx.fillRect(x + 12, GROUND_Y + 76, 4, 1);
     }
 
     drawAnteater(state.anteater.x, state.anteater.y);
@@ -235,14 +296,14 @@ On this page you might find content relating to
       ctx.fillStyle = fg;
       ctx.font = '500 16px sans-serif';
       ctx.textAlign = 'center';
-      ctx.fillText('GAME OVER — press space to restart', W / 2, 70);
+      ctx.fillText('GAME OVER — press space to restart', W / 2, 50);
     }
 
     ctx.fillStyle = fg;
     ctx.globalAlpha = 0.5;
     ctx.font = '500 14px monospace';
     ctx.textAlign = 'right';
-    ctx.fillText(String(Math.floor(state.score)).padStart(5, '0'), W - 10, 24);
+    ctx.fillText(String(Math.floor(state.score)).padStart(5, '0'), W - 10, 20);
     ctx.globalAlpha = 1;
   }
 
