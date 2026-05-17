@@ -32,3 +32,7 @@ Come and See
 Das Boot
 
 Ikiru
+
+Werner Herzog List:
+Fitzcarraldo, Aguirre, Wrath of God, Nosferatu the Vampyre, Cobra Verde, and Woyzeck 
+
