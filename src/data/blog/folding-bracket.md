@@ -1,6 +1,6 @@
 ---
 author: TSH
-pubDatetime: 2025-08-05T04:58:53Z
+pubDatetime: 2025-08-08T04:58:53Z
 title: Folding Support Bracket
 description: A desk support bracket that folds out of the way when not in use
 featured: true
