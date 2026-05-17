@@ -16,7 +16,7 @@ I ran my first half marathon on the Westside running track quite early into my r
 
   <img src="/HM Track.png" alt="Track Map" width="400" />
 
-Since then, I've built a solid running foundation and have done a few since without injury
+Since then, I've built a solid running foundation and have done a few since without injury.
 
 ## Splits
 I've plotted my longer runs using Excel to visualise my progress and compare consistency.
