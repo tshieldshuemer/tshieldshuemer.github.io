@@ -15,12 +15,12 @@ tags:
 ## D Whistle
  ### The Trip to Sligo: 
  <audio controls preload="none">
-  <source src="/audio/trip-to-sligo.m4a" type="audio/mp4">
+  <source src="/audio/trip-to-sligo.aac" type="audio/aac">
 </audio>
  
  ### The Congress Reel: 
  <audio controls preload="none">
-  <source src="/audio/the-congress-reel.m4a" type="audio/mp4">
+  <source src="/audio/the-congress-reel.aac" type="audio/aac">
 </audio>
  
 
