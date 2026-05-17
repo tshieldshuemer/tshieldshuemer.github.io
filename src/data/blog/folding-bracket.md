@@ -21,7 +21,7 @@ I always find myself a bit short on space in general, but especially desk space.
 </div>
 
 ### Design
-I did some simple research on the yield strength of PLA printed parts and print orientation, then did some simple force calculations taking into account the maximum loading my desk would be exposed to when in use.
+I did some research on the yield strength of PLA printed parts and print orientation, then did some simple force calculations taking into account the maximum loading my desk would be exposed to when in use.
 I opted for 100% print infill on the diagonal beam as it is quite a long component and carries a lot of compression. An infill of 40% plus would probably have been safe but I wanted to be conservative in light of factors such as creep. 
 
 <div class="flex gap-4">
