@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/tshieldshuemer/",
   desc: "Personal site of Tim Shields-Huemer — writing, projects, and interests.",
   title: "Tim Shields-Huemer",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "Collage.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
