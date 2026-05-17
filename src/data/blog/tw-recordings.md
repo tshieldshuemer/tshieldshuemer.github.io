@@ -12,7 +12,16 @@ tags:
   - Tin Whistle
 ---
 
-## Overview
+## D Whistle
+ ### The Trip to Sligo: 
+  <audio controls preload="none" src="/audio/trip-to-sligo.m4a"></audio>
+ 
+ ### The Congress Reel: 
+ <audio controls preload="none" src="/audio/the-congress-reel.m4a"></audio>
+ 
 
+-----------------------------------------------------------------------------------
+
+## Bb Whistle
 
 
