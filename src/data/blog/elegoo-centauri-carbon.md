@@ -10,7 +10,7 @@ tags:
   - 3D Printing
 ---
 
-## Centauri Carbon
+## Centauri Carbon 
 
 <img src="/CentauriCarbon.png" alt="CentauriCarbon" width="1200" />
 
