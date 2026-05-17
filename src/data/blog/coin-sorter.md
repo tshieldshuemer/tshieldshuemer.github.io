@@ -4,7 +4,7 @@ pubDatetime: 2025-08-08T04:58:53Z
 title: Coin Sorter
 description: A gravity fed coin sorting tower
 featured: true
-heroImage: /Col.jpg
+heroImage: /Edraw.jpg
 tags:
   - 3D Printing
   - CAD
