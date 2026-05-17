@@ -4,7 +4,7 @@ pubDatetime: 2026-05-14T04:58:53Z
 title: Lamb Chops
 description: Simple Lamb Chop Dinner
 featured: false
-draft: false 
+draft: true
 heroImage: /Raw.jpg
 tags:
   - Food
