@@ -36,3 +36,17 @@ Ikiru
 Werner Herzog List:
 Fitzcarraldo, Aguirre, Wrath of God, Nosferatu the Vampyre, Cobra Verde, and Woyzeck 
 
+The Seventh Seal (1957, Bergman) — a knight plays chess with Death during the plague.
+A Separation (2011, Farhadi) — an Iranian domestic dispute spirals into a moral labyrinth where everyone is partly right.
+There Will Be Blood (2007, PTA) 
+
+the lives of others
+
+Past Lives
+
+Eternal Sunshine of the Spotless Mind
+
+A Hidden Life
+
+Manchester by the sea
+
