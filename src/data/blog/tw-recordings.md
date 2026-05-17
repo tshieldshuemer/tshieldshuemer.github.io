@@ -14,10 +14,14 @@ tags:
 
 ## D Whistle
  ### The Trip to Sligo: 
-  <audio controls preload="none" src="/audio/trip-to-sligo.m4a"></audio>
+ <audio controls preload="none">
+  <source src="/audio/trip-to-sligo.m4a" type="audio/mp4">
+</audio>
  
  ### The Congress Reel: 
- <audio controls preload="none" src="/audio/the-congress-reel.m4a"></audio>
+ <audio controls preload="none">
+  <source src="/audio/the-congress-reel.m4a" type="audio/mp4">
+</audio>
  
 
 -----------------------------------------------------------------------------------
