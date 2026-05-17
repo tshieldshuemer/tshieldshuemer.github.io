@@ -27,7 +27,7 @@ On this page you might find content relating to
 <div id="anteater-modal" class="not-prose fixed inset-0 z-50 hidden items-center justify-center bg-background/95 backdrop-blur-sm p-4">
   <div class="w-full max-w-2xl">
     <div class="flex justify-between items-center mb-3">
-      
+      <h3 class="text-lg font-semibold m-0">🐜 You found it</h3>
       <button id="anteater-close" class="px-3 py-1 rounded border border-accent text-accent hover:bg-accent hover:text-background transition text-sm">
         Close (Esc)
       </button>
@@ -35,7 +35,7 @@ On this page you might find content relating to
     <div class="border-2 border-skin-line rounded p-3 bg-background">
       <canvas id="anteater-canvas" width="600" height="170" class="block w-full" style="image-rendering: pixelated; touch-action: none;"></canvas>
       <div class="flex justify-between text-sm mt-2 opacity-75">
-        
+        <span>Space / tap = jump · ↓ = duck</span>
         <span>Score: <strong id="anteater-score">0</strong> · Best: <strong id="anteater-best">0</strong></span>
       </div>
     </div>
