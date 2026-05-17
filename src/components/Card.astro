@@ -1,0 +1,45 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { slugifyStr } from "@/utils/slugify";
+import { getPath } from "@/utils/getPath";
+import Datetime from "./Datetime.astro";
+type Props = {
+  variant?: "h2" | "h3";
+} & CollectionEntry<"blog">;
+const { variant: Heading = "h2", id, data, filePath } = Astro.props;
+const { title, description, heroImage, ...props } = data;
+const imageSrc = heroImage ?? null;
+const postUrl = getPath(id, filePath);
+---
+<li class="my-6">
+  <div class="flex gap-4 max-sm:flex-col">
+    {imageSrc && (
+      <a href={postUrl} class="sm:flex-shrink-0" aria-hidden="true" tabindex="-1">
+        <img
+          src={imageSrc}
+          alt=""
+          class="w-full rounded object-cover sm:h-32 sm:w-48"
+          loading="lazy"
+        />
+      </a>
+    )}
+    <div class="flex-1">
+       <a 
+        href={postUrl}
+        class:list={[
+          "inline-block text-lg font-medium text-accent",
+          "decoration-dashed underline-offset-4 hover:underline",
+          "focus-visible:no-underline focus-visible:underline-offset-0",
+        ]}
+      >
+        <Heading
+          style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")) }}
+        >
+          {title}
+        </Heading>
+      </a>
+      <Datetime {...props} />
+      <p>{description}</p>
+    </div>
+  </div>
+</li>
