@@ -5,6 +5,7 @@ title: Lamb Chops
 description: Simple Lamb Chop Dinner
 featured: false
 draft: true
+category: casual
 heroImage: /Raw.jpg
 tags:
   - Food
