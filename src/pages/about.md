@@ -49,23 +49,30 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
     const stored = localStorage.getItem(KEY) === "true";
     root.dataset.showCasual = stored ? "true" : "false";
 
-    const toggle = document.getElementById("casual-toggle");
-    const thumb = document.getElementById("casual-toggle-thumb");
-    if (!toggle || !thumb) return;
+    function initToggle() {
+      const toggle = document.getElementById("casual-toggle");
+      const thumb = document.getElementById("casual-toggle-thumb");
+      if (!toggle || !thumb) return;
 
-    const render = (show) => {
-      toggle.setAttribute("aria-checked", String(show));
-      thumb.style.transform = show ? "translateX(20px)" : "translateX(4px)";
-    };
+      const current = localStorage.getItem(KEY) === "true";
 
-    render(stored);
+      const render = (show) => {
+        toggle.setAttribute("aria-checked", String(show));
+        thumb.style.transform = show ? "translateX(20px)" : "translateX(4px)";
+      };
 
-    toggle.addEventListener("click", () => {
-      const next = toggle.getAttribute("aria-checked") !== "true";
-      localStorage.setItem(KEY, String(next));
-      root.dataset.showCasual = next ? "true" : "false";
-      render(next);
-    });
+      render(current);
+
+      toggle.addEventListener("click", () => {
+        const next = toggle.getAttribute("aria-checked") !== "true";
+        localStorage.setItem(KEY, String(next));
+        root.dataset.showCasual = next ? "true" : "false";
+        render(next);
+      });
+    }
+
+    // Run on first load and after every view transition
+    document.addEventListener("astro:page-load", initToggle);
   })();
 </script>
 
