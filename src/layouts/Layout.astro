@@ -166,21 +166,6 @@ const structuredData = {
         };
       })();
     </script>
-
-<!-- Casual posts toggle: apply preference before paint -->
-<script is:inline>
-  (function () {
-    const stored = localStorage.getItem("show-casual") === "true";
-    document.documentElement.dataset.showCasual = stored ? "true" : "false";
-  })();
-</script>
-
-<style is:global>
-  html:not([data-show-casual="true"]) [data-category="casual"] {
-    display: none;
-  }
-</style>
-
   </head>
 
 
