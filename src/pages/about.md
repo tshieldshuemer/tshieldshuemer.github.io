@@ -34,6 +34,40 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
   <li data-category="casual"><a href="/tags/music/">Music</a></li>
   <li data-category="casual"><a href="/tags/photography/">Photography</a></li>
 </ul>
+<style is:global>
+  html:not([data-show-casual="true"]) [data-category="casual"] {
+    display: none;
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    const KEY = "show-casual";
+    const root = document.documentElement;
+
+    // Apply stored preference immediately to avoid flash
+    const stored = localStorage.getItem(KEY) === "true";
+    root.dataset.showCasual = stored ? "true" : "false";
+
+    const toggle = document.getElementById("casual-toggle");
+    const thumb = document.getElementById("casual-toggle-thumb");
+    if (!toggle || !thumb) return;
+
+    const render = (show) => {
+      toggle.setAttribute("aria-checked", String(show));
+      thumb.style.transform = show ? "translateX(20px)" : "translateX(4px)";
+    };
+
+    render(stored);
+
+    toggle.addEventListener("click", () => {
+      const next = toggle.getAttribute("aria-checked") !== "true";
+      localStorage.setItem(KEY, String(next));
+      root.dataset.showCasual = next ? "true" : "false";
+      render(next);
+    });
+  })();
+</script>
 
 <a href="mailto:galwaywest3d@gmail.com" class="inline-block mt-4 px-4 py-2 rounded border border-accent text-accent hover:bg-accent hover:text-background transition">
   Get in touch ✉️
