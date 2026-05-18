@@ -23,9 +23,7 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
     </button>
   </label>
 </div>
-
 <p>On this page you might find content relating to</p>
-
 <ul>
   <li><a href="/tags/engineering/">Engineering</a></li>
   <li><a href="/tags/cad/">CAD</a> &amp; <a href="/tags/3d-printing/">3D Printing</a></li>
@@ -34,31 +32,20 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
   <li data-category="casual"><a href="/tags/music/">Music</a></li>
   <li data-category="casual"><a href="/tags/photography/">Photography</a></li>
 </ul>
-<style is:global>
-  html:not([data-show-casual="true"]) [data-category="casual"] {
-    display: none;
-  }
-</style>
-
 <script is:inline>
   (function () {
     const KEY = "show-casual";
     const root = document.documentElement;
-
     function initToggle() {
       const toggle = document.getElementById("casual-toggle");
       const thumb = document.getElementById("casual-toggle-thumb");
       if (!toggle || !thumb) return;
-
       const current = localStorage.getItem(KEY) === "true";
-
       const render = (show) => {
         toggle.setAttribute("aria-checked", String(show));
         thumb.style.transform = show ? "translateX(20px)" : "translateX(4px)";
       };
-
       render(current);
-
       toggle.addEventListener("click", () => {
         const next = toggle.getAttribute("aria-checked") !== "true";
         localStorage.setItem(KEY, String(next));
@@ -66,16 +53,9 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
         render(next);
       });
     }
-
     document.addEventListener("astro:page-load", initToggle);
   })();
 </script>
-
-    // Run on first load and after every view transition
-    document.addEventListener("astro:page-load", initToggle);
-  })();
-</script>
-
 <a href="mailto:galwaywest3d@gmail.com" class="inline-block mt-4 px-4 py-2 rounded border border-accent text-accent hover:bg-accent hover:text-background transition">
   Get in touch ✉️
 </a>
