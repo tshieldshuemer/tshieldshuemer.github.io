@@ -34,7 +34,7 @@ My second and final design uses a centrifugal blower, which features a much larg
 
 <img src="/DimCad.png" alt="Second Design Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
-To accomodate a larger intake area for the blower, I had to design and print a new lid. I opted for three seperate layers to allow for interlocking joints. Each layer was split into four to fit within the print bed - giving a total of 12 part prints for the main lid alone. The piece consists mostly of PLA, with some parts in PETG as well as Polycarbonate windows.
+To accommodate a larger intake area for the blower, I had to design and print a new lid. I opted for three separate layers to allow for interlocking joints. Each layer was split into four to fit within the print bed - giving a total of 12 part prints for the main lid alone. The piece consists mostly of PLA, with some parts in PETG as well as Polycarbonate windows.
 
 <img src="/Phys.png" alt="Printer Lid IRL" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
