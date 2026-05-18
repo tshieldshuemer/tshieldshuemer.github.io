@@ -4,6 +4,7 @@ pubDatetime: 2024-05-15T04:58:53Z
 title: Student Diving Entry Expenses
 description: An overview of my kit and service expenses as a new scuba diver in Ireland
 featured: false
+category: casual
 heroImage: /UWthumbnail.JPG
 tags:
   - Scuba
