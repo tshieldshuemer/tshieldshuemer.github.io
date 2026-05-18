@@ -5,6 +5,7 @@ title: MOTM May '26
 description: Some songs I've discovered this month
 featured: false
 draft: false
+category: casual
 heroImage: /MOTMMay.png
 tags:
   - Music
