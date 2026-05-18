@@ -6,6 +6,7 @@ title: Tin Whistle Recordings
 description: An audio library of my tin whistle recordings
 featured: false
 draft: false
+category: casual
 heroImage: /TinWhistle.jpeg
 tags:
   - Music
