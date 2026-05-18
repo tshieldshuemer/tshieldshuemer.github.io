@@ -5,6 +5,7 @@ title: Dublin Vol. 1
 description: Some Photos
 featured: false
 draft: false
+category: casual
 heroImage: /PV1Col.png
 tags:
   - Photography
