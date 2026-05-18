@@ -23,7 +23,7 @@ The solution? A fume extractor to purge all fumes outside.
 <img src="/V1.png" alt="First Design Render" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 <img src="/V1d.png" alt="First Design Duct" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 
-My initial design was suboptimal - It used a weak 5V PC Cooling fan and a small cross sectional area meant that fume extraction was minimal.
+My initial design was suboptimal - It used a weak 5V PC Cooling fan and a small cross-sectional area meant that fume extraction was minimal.
 
 ### V1 fan (CLD8015L05X, 5V axial):
 
@@ -40,11 +40,9 @@ My second and final design uses a centrifugal blower, which features a much larg
 
 ### V2 blower (GDB1232-A @ 24V, 3000 RPM):
 
-- Air Flow: 56 m³/h (33 CFM) 
-- Static Pressure: 274 Pa (1.1 inH₂O)
+- Max Air Flow: 56 m³/h (33 CFM) 
+- Max Static Pressure: 274 Pa (1.1 inH₂O)
 - Power: 12 W (24V × 0.5A)
-
-*Note: V1 figures are independent maxima; V2 figures are simultaneous values from a fan curve operating point.*
 
 <img src="/FanSpecSheet.png" alt="SpecSheet" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
@@ -54,14 +52,14 @@ To accommodate a larger intake area for the blower, I had to design and print a 
 
 <img src="/Phys.png" alt="Printer Lid IRL" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
-## Conclusion
+## Analysis
 
 The V1 axial topology is fundamentally mismatched to a ducted application — axial fans move air well in free space but stall against system resistance. The centrifugal blower converts rotational energy into pressure rather than bulk flow, which is the requirement for pushing air through ducting.
 
-The printer has an enclosure volume of circa 50 L (0.05 m³). With a new theoretical free-flow airflow of 0.0156 m³/s (56 m³/h), the enclosure would have a full air change every 3.21 seconds, equivalent to ~1120 ACH in free-flow. 
+The printer has an enclosure volume of circa 50 L (0.05 m³). With a new theoretical free-flow airflow of 0.0156 m³/s (56 m³/h), the enclosure would have a theoretical full air change every 3.21 seconds, equivalent to ~1120 ACH in free-flow. 
 
-The installed system will operate somewhere along the blower's pressure curve depending on duct geometry — exact installed performance was not measured, but the order-of-magnitude headroom ensures effective turnover even under conservative loss assumptions. Smoke testing confirmed the extractor cleared the chamber within ~5 seconds of activation.
+The installed system will operate somewhere along the blower's pressure curve depending on duct geometry — exact installed performance was not measured, but the order-of-magnitude headroom ensures effective turnover even under conservative loss assumptions. Smoke testing confirmed the extractor cleared the chamber within ~5 seconds of activation, consistent with the predicted free-flow turnover after accounting for installed losses.
 
+## Conclusion
 
-
-
+V1 was the result of a hobby project done by eye with limited research and resources, and performed accordingly. V2 was the same challenge approached as an engineering problem — specified against requirements, selected against the fan curve, and validated against the predicted turnover.
