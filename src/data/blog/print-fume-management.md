@@ -19,18 +19,34 @@ The health impacts of these emissions are still being quantified, so since I run
 The solution? A fume extractor to purge all fumes outside.
 
 
-### First Iteration
+## First Iteration
 <img src="/V1.png" alt="First Design Render" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 <img src="/V1d.png" alt="First Design Duct" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 
 My initial design was suboptimal - It used a weak 5V PC Cooling fan and a small cross sectional area meant that fume extraction was minimal.
+
+### V1 fan (CLD8015L05X, 5V axial):
+
+- Max Side Air Flow: 1.7 m³/h (0.98 CFM) 
+- Maximum Side Static Pressure: 12Pa (0.048 inH₂O) 
+- Power: 1.2 W
   
   
-### Second Iteration
+## Second Iteration
 
 <img src="/V2CAD.png" alt="Second Design Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
 My second and final design uses a centrifugal blower, which features a much larger intake, a more powerful fan and is capable of handling the static pressures of the ducting.
+
+### V2 blower (GDB1232-A @ 48V, your highlighted operating point):
+
+- Air Flow:56 m³/h (33 CFM) 
+- Static Pressure: 274 Pa (1.1 inH₂O)
+- Power: 12 W (24V × 0.5A)
+
+*Note: V1 figures are independent maxima; V2 figures are simultaneous values from a fan curve operating point.*
+
+<img src="/FanSpecSheet.png" alt="SpecSheet" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
 <img src="/DimCad.png" alt="Second Design Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition " />
 
