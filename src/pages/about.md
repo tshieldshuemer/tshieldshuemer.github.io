@@ -23,14 +23,18 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
     </button>
   </label>
 </div>
-On this page you might find content relating to 
-- [Engineering](/tags/engineering/)
-- [CAD](/tags/cad/) & [3D Printing](/tags/3d-printing/)
-- <span data-category="casual">[Running](/tags/running/)</span>
-- <span data-category="casual">[Diving](/tags/scuba/)</span>
-- <span data-category="casual">[Music](/tags/music/)</span>
-- <span data-category="casual">[Photography](/tags/photography/)</span>
-  
+
+<p>On this page you might find content relating to</p>
+
+<ul>
+  <li><a href="/tags/engineering/">Engineering</a></li>
+  <li><a href="/tags/cad/">CAD</a> &amp; <a href="/tags/3d-printing/">3D Printing</a></li>
+  <li data-category="casual"><a href="/tags/running/">Running</a></li>
+  <li data-category="casual"><a href="/tags/scuba/">Diving</a></li>
+  <li data-category="casual"><a href="/tags/music/">Music</a></li>
+  <li data-category="casual"><a href="/tags/photography/">Photography</a></li>
+</ul>
+
 <a href="mailto:galwaywest3d@gmail.com" class="inline-block mt-4 px-4 py-2 rounded border border-accent text-accent hover:bg-accent hover:text-background transition">
   Get in touch ✉️
 </a>
