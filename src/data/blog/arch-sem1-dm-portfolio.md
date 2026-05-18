@@ -4,6 +4,7 @@ pubDatetime: 2023-12-21T04:58:53Z
 title: Architecture D&M Portfolio
 description: Drawing and Making Portfolio from Arch Y1S1
 featured: false
+category: casual
 heroImage: /DMP17.jpg
 tags:
   - Architecture
