@@ -5,6 +5,7 @@ title: Half Marathon Progression
 description: Analysis of HM improvement
 featured: false
 draft: false
+category: casual
 heroImage: /HM Track.png
 tags:
   - Running
