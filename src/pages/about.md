@@ -26,10 +26,10 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
 On this page you might find content relating to 
 - [Engineering](/tags/engineering/)
 - [CAD](/tags/cad/) & [3D Printing](/tags/3d-printing/)
-- [Running](/tags/running/)
-- [Diving](/tags/scuba/)
-- [Music](/tags/music/)
-- [Photography](/tags/photography/)
+- <span data-category="casual">[Running](/tags/running/)</span>
+- <span data-category="casual">[Diving](/tags/scuba/)</span>
+- <span data-category="casual">[Music](/tags/music/)</span>
+- <span data-category="casual">[Photography](/tags/photography/)</span>
   
 <a href="mailto:galwaywest3d@gmail.com" class="inline-block mt-4 px-4 py-2 rounded border border-accent text-accent hover:bg-accent hover:text-background transition">
   Get in touch ✉️
