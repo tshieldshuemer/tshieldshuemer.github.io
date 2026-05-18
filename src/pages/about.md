@@ -45,10 +45,6 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
     const KEY = "show-casual";
     const root = document.documentElement;
 
-    // Apply stored preference immediately to avoid flash
-    const stored = localStorage.getItem(KEY) === "true";
-    root.dataset.showCasual = stored ? "true" : "false";
-
     function initToggle() {
       const toggle = document.getElementById("casual-toggle");
       const thumb = document.getElementById("casual-toggle-thumb");
@@ -70,6 +66,10 @@ I'm an Engineering student from Galway, currently studying in Dublin. I'm intere
         render(next);
       });
     }
+
+    document.addEventListener("astro:page-load", initToggle);
+  })();
+</script>
 
     // Run on first load and after every view transition
     document.addEventListener("astro:page-load", initToggle);
