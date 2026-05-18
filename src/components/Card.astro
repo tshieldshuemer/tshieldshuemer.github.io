@@ -7,11 +7,11 @@ type Props = {
   variant?: "h2" | "h3";
 } & CollectionEntry<"blog">;
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
-const { title, description, heroImage, category, ...props } = data;
+const { title, description, heroImage, ...props } = data;
 const imageSrc = heroImage ?? null;
 const postUrl = getPath(id, filePath);
 ---
-<li class="my-6" data-category={category}>
+<li class="my-6">
   <div class="flex gap-4 max-sm:flex-col">
     {imageSrc && (
       <a href={postUrl} class="sm:flex-shrink-0" aria-hidden="true" tabindex="-1">
