@@ -52,7 +52,6 @@ const postsWithImages = sortedPosts.filter(
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0.5rem;
-    overflow: hidden;
   }
   @media (min-width: 640px) {
     .collage-grid { grid-template-columns: repeat(3, 1fr); }
@@ -61,12 +60,12 @@ const postsWithImages = sortedPosts.filter(
     .collage-grid { grid-template-columns: repeat(4, 1fr); gap: 0.75rem; }
   }
 
-  /* Brickwork offset: shift every other row by half a column. */
+  /* Brickwork offset (subtle, no clipping) */
 
-  /* 2-column layout: items 3,4 (row 2), 7,8 (row 4), etc. */
+  /* 2-column layout: offset rows shift right by a quarter column */
   .collage-item:nth-child(4n+3),
   .collage-item:nth-child(4n+4) {
-    transform: translateX(50%);
+    transform: translateX(25%);
   }
 
   /* 3-column layout */
@@ -78,7 +77,7 @@ const postsWithImages = sortedPosts.filter(
     .collage-item:nth-child(6n+4),
     .collage-item:nth-child(6n+5),
     .collage-item:nth-child(6n+6) {
-      transform: translateX(50%);
+      transform: translateX(16.66%);
     }
   }
 
@@ -93,7 +92,7 @@ const postsWithImages = sortedPosts.filter(
     .collage-item:nth-child(8n+6),
     .collage-item:nth-child(8n+7),
     .collage-item:nth-child(8n+8) {
-      transform: translateX(50%);
+      transform: translateX(12.5%);
     }
   }
 
