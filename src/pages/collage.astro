@@ -17,8 +17,7 @@ const postsWithImages = sortedPosts.filter(
 
 <Layout title={`Collage | ${SITE.title}`}>
   <Header />
-   <main id="main-content" class="mx-auto w-full max-w-app px-4 py-8">
-   
+  <main id="main-content" class="mx-auto w-full max-w-app px-4 py-8">
     <section class="collage-grid">
       {postsWithImages.map(p => (
         <a href={`/posts/${p.id}`} class="collage-item" aria-label={p.data.title}>
@@ -32,7 +31,7 @@ const postsWithImages = sortedPosts.filter(
             />
           ) : (
             <Image
-              src={p.data.heroImage}
+              src={p.data.heroImage!}
               alt=""
               loading="lazy"
               decoding="async"
@@ -53,12 +52,49 @@ const postsWithImages = sortedPosts.filter(
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0.5rem;
+    overflow: hidden;
   }
   @media (min-width: 640px) {
     .collage-grid { grid-template-columns: repeat(3, 1fr); }
   }
   @media (min-width: 1024px) {
     .collage-grid { grid-template-columns: repeat(4, 1fr); gap: 0.75rem; }
+  }
+
+  /* Brickwork offset: shift every other row by half a column. */
+
+  /* 2-column layout: items 3,4 (row 2), 7,8 (row 4), etc. */
+  .collage-item:nth-child(4n+3),
+  .collage-item:nth-child(4n+4) {
+    transform: translateX(50%);
+  }
+
+  /* 3-column layout */
+  @media (min-width: 640px) {
+    .collage-item:nth-child(4n+3),
+    .collage-item:nth-child(4n+4) {
+      transform: none;
+    }
+    .collage-item:nth-child(6n+4),
+    .collage-item:nth-child(6n+5),
+    .collage-item:nth-child(6n+6) {
+      transform: translateX(50%);
+    }
+  }
+
+  /* 4-column layout */
+  @media (min-width: 1024px) {
+    .collage-item:nth-child(6n+4),
+    .collage-item:nth-child(6n+5),
+    .collage-item:nth-child(6n+6) {
+      transform: none;
+    }
+    .collage-item:nth-child(8n+5),
+    .collage-item:nth-child(8n+6),
+    .collage-item:nth-child(8n+7),
+    .collage-item:nth-child(8n+8) {
+      transform: translateX(50%);
+    }
   }
 
   .collage-item {
