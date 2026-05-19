@@ -14,7 +14,7 @@ tags:
 <div class="not-prose max-w-3xl mx-auto">
   <!-- Top row, offset right by 1/4 column width -->
   <div class="grid grid-cols-4 gap-4 ml-[8.33%]">
-     <img src="/AwaitingTheMariner.jpeg" alt="AwaitingTheMarine" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
+     <img src="/AwaitingTheMariner.jpeg" alt="AwaitingTheMariner" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/MoonByDay.jpg" alt="Moon By Day" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/StacksByDart.png" alt="StacksByDart" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
      <img src="/MajCat.jpg" alt="MajCat" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
