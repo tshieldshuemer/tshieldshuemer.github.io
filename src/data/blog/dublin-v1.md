@@ -2,7 +2,7 @@
 author: TSH
 pubDatetime: 2026-02-26T04:58:53Z
 title: Dublin Vol. 1
-description: Some Photos
+description: 
 featured: false
 draft: false
 category: casual
