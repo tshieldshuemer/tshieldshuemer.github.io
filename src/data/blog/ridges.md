@@ -2,7 +2,6 @@
 author: TSH
 pubDatetime: 2026-05-19T04:58:53Z
 title: Ridges
-description: 
 featured: false
 draft: false
 category: casual
