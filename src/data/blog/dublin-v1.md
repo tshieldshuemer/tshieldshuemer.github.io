@@ -1,3 +1,16 @@
+---
+author: TSH
+pubDatetime: 2026-02-14T04:58:53Z
+modDatetime: 2026-05-14T04:58:53Z
+title: Dublin Vol. 1
+description: ""
+featured: false
+draft: false
+category: casual
+heroImage: /MoonByDay.jpg
+tags:
+  - Photography
+---
 <div class="not-prose max-w-3xl mx-auto">
   <!-- Top row, offset right by 1/4 column width -->
   <div class="grid grid-cols-3 gap-4 ml-[8.33%]">
