@@ -1,6 +1,6 @@
 ---
 author: TSH
-pubDatetime: 2023-12-21T04:58:53Z
+pubDatetime: 2023-12-22T04:58:53Z
 title: Architecture Portfolio Y1S1
 description: My Portfolio from my brief stint in Architecture
 featured: true
