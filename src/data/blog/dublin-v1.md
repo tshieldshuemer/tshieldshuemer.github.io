@@ -25,5 +25,6 @@ tags:
     <img src="/ThreeFates.jpg" alt="ThreeFates" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/DodderPark.jpg" alt="DodderPark" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/SandyMountGraffiti.png" alt="SandyMountGraffiti" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
+     <img src="/Vert.jpg" alt="VertStacks" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
   </div>
 </div>
