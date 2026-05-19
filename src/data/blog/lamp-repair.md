@@ -13,7 +13,19 @@ tags:
 ---
 
 
-## First Iteration
-<img src="/Broken.jpg" alt="OldPart" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
-<img src="/BrokenLamp.jpg" alt="LampPieces" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition "/>
+<div class="flex gap-4">
+  <img src="/Broken.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/BrokenLamp.jpg" alt="LampPieces" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+</div>
 
+-------------------------------------------------------------------
+
+<div class="flex gap-4">
+  <img src="/LampRender.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/TransLamp.jpg" alt="LampPieces" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+</div>
+
+-------------------------------------------------------------------
+
+
+ <img src="/FixedLamp.jpg" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
