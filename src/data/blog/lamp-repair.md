@@ -14,8 +14,8 @@ tags:
 
 
 <div class="flex gap-4">
-  <img src="/Broken.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
-  <img src="/BrokenLamp.jpg" alt="LampPieces" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+  <img src="/Broken.jpg" alt="OldPart" class="w-1/3 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/BrokenLamp.jpg" alt="LampPieces" class="w-1/3 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 </div>
 
 -------------------------------------------------------------------
