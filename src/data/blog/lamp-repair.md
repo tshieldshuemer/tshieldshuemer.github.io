@@ -28,4 +28,4 @@ tags:
 -------------------------------------------------------------------
 
 
- <img src="/FixedLamp.jpg" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+ <img src="/FixedLamp.JPG" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
