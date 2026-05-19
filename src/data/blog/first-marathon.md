@@ -6,7 +6,7 @@ description: Analysis of my first full Marathon
 featured: false
 draft: false
 category: casual
-heroImage: /Dangan.jpeg
+heroImage: /MaraPlot.png
 tags:
   - Running
 ---
