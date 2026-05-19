@@ -10,8 +10,8 @@ import { SITE } from "@/config";
 const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
 const postsWithImages = sortedPosts.filter(
-  (p): p is typeof p & { data: { ogImage: NonNullable<typeof p.data.ogImage> } } =>
-    p.data.ogImage !== undefined
+  (p): p is typeof p & { data: { heroImage: NonNullable<typeof p.data.heroImage> } } =>
+    p.data.heroImage !== undefined
 );
 ---
 
@@ -26,9 +26,9 @@ const postsWithImages = sortedPosts.filter(
     <section class="collage-grid">
       {postsWithImages.map(p => (
         <a href={`/posts/${p.id}`} class="collage-item" aria-label={p.data.title}>
-          {typeof p.data.ogImage === "string" ? (
+          {typeof p.data.heroImage === "string" ? (
             <img
-              src={p.data.ogImage}
+              src={p.data.heroImage}
               alt=""
               loading="lazy"
               decoding="async"
@@ -36,7 +36,7 @@ const postsWithImages = sortedPosts.filter(
             />
           ) : (
             <Image
-              src={p.data.ogImage}
+              src={p.data.heroImage}
               alt=""
               loading="lazy"
               decoding="async"
