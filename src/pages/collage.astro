@@ -9,7 +9,10 @@ import { SITE } from "@/config";
 
 const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
-const postsWithImages = sortedPosts.filter(p => p.data.ogImage);
+const postsWithImages = sortedPosts.filter(
+  (p): p is typeof p & { data: { ogImage: NonNullable<typeof p.data.ogImage> } } =>
+    p.data.ogImage !== undefined
+);
 ---
 
 <Layout title={`Collage | ${SITE.title}`}>
