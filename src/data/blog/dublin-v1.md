@@ -6,7 +6,7 @@ description: Some Photos
 featured: false
 draft: false
 category: casual
-heroImage: /PV1Col.png
+heroImage: /MoonByDay.jpg
 tags:
   - Photography
 ---
