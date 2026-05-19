@@ -1,7 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2026-01-16T04:58:53Z
-modDatetime: 2026-05-19T14:30:00Z
+modDatetime: 2026-05-19T12:30:00Z
 title: Lamp Joint Repair
 description: A 3D printed replacement part for a desk lamp
 featured: false
