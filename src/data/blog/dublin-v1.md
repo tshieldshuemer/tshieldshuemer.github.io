@@ -23,8 +23,8 @@ tags:
   <!-- Bottom row, offset left by 1/4 column width -->
   <div class="grid grid-cols-4 gap-4 mr-[8.33%] mt-4">
     <img src="/ThreeFates.jpg" alt="ThreeFates" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
+     <img src="/SandyMountGraffiti.png" alt="SandyMountGraffiti" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/DodderPark.jpg" alt="DodderPark" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
-    <img src="/SandyMountGraffiti.png" alt="SandyMountGraffiti" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
      <img src="/Vert.jpg" alt="VertStacks" class="lightbox-trigger w-full aspect-[3/4] object-cover border-4 border-black cursor-pointer hover:opacity-90 transition" />
   </div>
 </div>
