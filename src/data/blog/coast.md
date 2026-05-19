@@ -6,7 +6,7 @@ description: Where water meets land
 featured: false
 draft: false
 category: casual
-heroImage: /Rand1TN.jpg
+heroImage: /Skelligs.JPG
 tags:
   - Photography
 ---
