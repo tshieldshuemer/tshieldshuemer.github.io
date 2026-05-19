@@ -23,40 +23,36 @@ const postsWithImages = sortedPosts.filter(post => post.data.ogImage);
     </section>
 
     <section class="collage-grid">
-      {
-        postsWithImages.map(post => {
-          const href = `/posts/${post.id}`;
-          const img = post.data.ogImage;
-          return (
-            
-              href={href}
-              class="collage-item group"
-              aria-label={post.data.title}
-            >
-              {typeof img === "string" ? (
-                <img
-                  src={img}
-                  alt=""
-                  loading="lazy"
-                  decoding="async"
-                  class="collage-img"
-                />
-              ) : (
-                <Image
-                  src={img}
-                  alt=""
-                  loading="lazy"
-                  decoding="async"
-                  widths={[300, 500, 800]}
-                  sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-                  class="collage-img"
-                />
-              )}
-            </a>
-          );
-        })
-      }
-    </section>
+  {
+    postsWithImages.map(post => (
+      
+        href={`/posts/${post.id}`}
+        class="collage-item group"
+        aria-label={post.data.title}
+      >
+        {typeof post.data.ogImage === "string" ? (
+          <img
+            src={post.data.ogImage}
+            alt=""
+            loading="lazy"
+            decoding="async"
+            class="collage-img"
+          />
+        ) : (
+          <Image
+            src={post.data.ogImage}
+            alt=""
+            loading="lazy"
+            decoding="async"
+            widths={[300, 500, 800]}
+            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+            class="collage-img"
+          />
+        )}
+      </a>
+    ))
+  }
+</section>
   </main>
   <Footer />
 </Layout>
