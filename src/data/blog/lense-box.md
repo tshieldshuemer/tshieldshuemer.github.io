@@ -21,4 +21,4 @@ The design is quite simple- consisting of just two parts which interlock to make
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-<img src="/LenseBoxPhys.jpeg" alt="Printed Piece" width="800" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/LenseBoxPhys.jpeg" alt="Printed Piece" width="600" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
