@@ -110,12 +110,14 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </LinkButton>
     </div>
     <section id="projects-collage" class="my-12">
-      <img
-        src="/Collage.png"
-        alt="A collage of my engineering and personal projects"
-        class="w-full rounded"
-      />
-    </section>
+  <a href="/collage/" aria-label="View collage of all posts">
+    <img
+      src="/Collage.png"
+      alt="A collage of my engineering and personal projects"
+      class="w-full rounded transition-opacity hover:opacity-90"
+    />
+  </a>
+</section>
   </main>
   <Footer />
 </Layout>
