@@ -9,9 +9,7 @@ import { SITE } from "@/config";
 
 const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
-
-// Only include posts that have a hero image
-const postsWithImages = sortedPosts.filter(post => post.data.ogImage);
+const postsWithImages = sortedPosts.filter(p => p.data.ogImage);
 ---
 
 <Layout title={`Collage | ${SITE.title}`}>
@@ -23,36 +21,30 @@ const postsWithImages = sortedPosts.filter(post => post.data.ogImage);
     </section>
 
     <section class="collage-grid">
-  {
-    postsWithImages.map(post => (
-      
-        href={`/posts/${post.id}`}
-        class="collage-item group"
-        aria-label={post.data.title}
-      >
-        {typeof post.data.ogImage === "string" ? (
-          <img
-            src={post.data.ogImage}
-            alt=""
-            loading="lazy"
-            decoding="async"
-            class="collage-img"
-          />
-        ) : (
-          <Image
-            src={post.data.ogImage}
-            alt=""
-            loading="lazy"
-            decoding="async"
-            widths={[300, 500, 800]}
-            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-            class="collage-img"
-          />
-        )}
-      </a>
-    ))
-  }
-</section>
+      {postsWithImages.map(p => (
+        <a href={`/posts/${p.id}`} class="collage-item" aria-label={p.data.title}>
+          {typeof p.data.ogImage === "string" ? (
+            <img
+              src={p.data.ogImage}
+              alt=""
+              loading="lazy"
+              decoding="async"
+              class="collage-img"
+            />
+          ) : (
+            <Image
+              src={p.data.ogImage}
+              alt=""
+              loading="lazy"
+              decoding="async"
+              widths={[300, 500, 800]}
+              sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+              class="collage-img"
+            />
+          )}
+        </a>
+      ))}
+    </section>
   </main>
   <Footer />
 </Layout>
@@ -75,7 +67,7 @@ const postsWithImages = sortedPosts.filter(post => post.data.ogImage);
     aspect-ratio: 1 / 1;
     overflow: hidden;
     border-radius: 6px;
-    background: var(--color-muted, #eee);
+    background: #eee;
   }
 
   .collage-img {
