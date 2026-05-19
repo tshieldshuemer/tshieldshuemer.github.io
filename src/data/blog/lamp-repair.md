@@ -19,13 +19,10 @@ tags:
 </div>
 
 -------------------------------------------------------------------
-
 <div class="flex gap-4">
   <img src="/LampRender.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
   <img src="/TransLamp.jpg" alt="LampPieces" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 </div>
 
 -------------------------------------------------------------------
-
-
  <img src="/FixedLamp.JPG" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
