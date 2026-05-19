@@ -1,8 +1,8 @@
 ---
 author: TSH
 pubDatetime: 2026-05-19T04:58:53Z
-title: Coast
-description: Where water meets land
+title: Edges
+description: 
 featured: false
 draft: false
 category: casual
