@@ -1,6 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2026-01-13T04:58:53Z
+modDatetime: 2026-05-18T04:58:53Z
 title: Dart Board Ring Light
 description: Lighting Solution to hit 180 
 featured: false
@@ -25,6 +26,9 @@ The piece consists of two 3D printed halfs which are slot joined at the middle. 
   <img src="/RingLightHDetail.png" alt="Transparent Iso" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 </div>
 
+-------------------------------------------------------------------------------------------------------------
+
+<img src="/DartBoardLightPhys.jpg" alt="RealLight" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2026-01-16T04:58:53Z
-modDatetime: 2026-05-19T14:30:00Z
+modDatetime: 2026-05-19T12:30:00Z
 title: Lamp Joint Repair
 description: A 3D printed replacement part for a desk lamp
 featured: false
@@ -14,8 +14,8 @@ tags:
 
 
 <div class="flex gap-4">
-  <img src="/Broken.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
-  <img src="/BrokenLamp.jpg" alt="LampPieces" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+  <img src="/Broken.jpg" alt="OldPart" class="w-1/3 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/BrokenLamp.jpg" alt="LampPieces" class="w-1/3 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 </div>
 
 -------------------------------------------------------------------
@@ -28,4 +28,4 @@ tags:
 -------------------------------------------------------------------
 
 
- <img src="/FixedLamp.jpg" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+ <img src="/FixedLamp.JPG" alt="LampPieces" class="w-full lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
