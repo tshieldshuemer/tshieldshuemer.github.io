@@ -17,12 +17,8 @@ const postsWithImages = sortedPosts.filter(
 
 <Layout title={`Collage | ${SITE.title}`}>
   <Header />
-  <main id="main-content" class="mx-auto w-full max-w-app px-4 pb-12">
-    <section class="pt-8 pb-6">
-      <h1 class="text-2xl font-semibold sm:text-3xl">Collage</h1>
-      <p class="mt-2 text-sm opacity-80">Click any image to open the post.</p>
-    </section>
-
+   <main id="main-content" class="mx-auto w-full max-w-app px-4 py-8">
+   
     <section class="collage-grid">
       {postsWithImages.map(p => (
         <a href={`/posts/${p.id}`} class="collage-item" aria-label={p.data.title}>
