@@ -46,7 +46,7 @@ At 37km my right leg started suffering from a multitude of cramps. I stopped bri
 ## Aftermath
 I was unsurprisingly quite shattered afterwards, having **burnt circa 3,000kcal** *(12.56 MJ, or roughly the energy in 0.3 kg of jet fuel burned)*
 
-In compensation I had 4 chicken thighs and a load of rice - then hit a deep sleep in my Hammock.
+In compensation I had 1kg of chicken thighs and a load of rice - then hit a deep sleep in my Hammock.
 
   <img src="/Hammock.jpeg" alt="Hammock" width="600" />
 
