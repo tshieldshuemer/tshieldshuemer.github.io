@@ -36,7 +36,7 @@ My first big investment was getting a decent semi-drysuit: Irish retailers were 
   <img src="/DiveGloves.avif" alt="Gloves" class="w-1/3" />
 </div>
 
- - Lead Weights - €60
+ - Lead Weights (10kg) - €60
  - Dive Belt: Decathlon - €27
  - Dive Torch: Aplos AP20 - €35
  - Diving Ireland Log Book - €30
