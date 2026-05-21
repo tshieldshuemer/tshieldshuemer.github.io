@@ -21,10 +21,10 @@ tags:
 
 ## 3. 風繼續吹 - Leslie Cheung
 [spotify link](https://open.spotify.com/intl-de/track/5RLv04XXxe0Nc4W7DTBJGT?si=5296f6e08a424aa5)
- <img src="/TomokoFlame.png" alt="SongCovers" width="1200" />
+ <img src="/TomoBR.png" alt="SongCovers" width="1200" />
  
 ## 4. Midnight Pretenders - Tomoko Aran
 [spotify link](https://open.spotify.com/intl-de/track/4S2CZucQAIH9TwTpHvX3hu?si=5cf5400463234b11)
 
-## 5. Hard in Da Paint - Waka Flocka Flame
-[spotify link](https://open.spotify.com/intl-de/track/3XQY8kDjI8LARMIC9xkxQk?si=c7a68ffb82fc4d62)
+## 5. Dirt and Daydreams - Brògeal
+[spotify link](https://open.spotify.com/intl-de/track/4ZfRiahRjJ9D8oXKSDZY6n?si=ff0682f96a89417a)
