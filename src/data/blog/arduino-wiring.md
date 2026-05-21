@@ -22,7 +22,7 @@ A block diagram is a graphical representation of a system, used to show the majo
 <img src="/Block Diagram.png" alt="Block Diagram" width="2000" class="lightbox-trigger w-full border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 
 ## Fritzing
-I used the software fritzing to create wiring schematics. I carried out two layouts: They are technically the same, but one has the H-Bridge chip separate from the protoshield for the sake of tidyness and clarity, while the other is a direct representation of our actual wiring.
+I used the software fritzing to create wiring schematics, carrying out two layouts: They are technically the same, but one has the H-Bridge chip separate from the protoshield for the sake of tidyness and clarity, while the other is a direct representation of our actual wiring.
 
 <div class="flex gap-4">
   <img src="/Wiring.png" alt="Tidy"  class="lightbox-trigger w-1/2 border-4 border-black cursor-pointer hover:opacity-90 transition "/> 
@@ -33,7 +33,7 @@ I used the software fritzing to create wiring schematics. I carried out two layo
 <img src="/Clean Build_Schaltplan.png" alt="Schaltplan" width="2000" class="lightbox-trigger w-full border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 
 ## Hand Drawn
-We encountered a few wiring issues early on in the project so to troubleshoot I did a hand drawing of all wiring connections and was able to find the issue.
+We encountered a few wiring issues early on in the project so to troubleshoot I did a hand drawing of all wiring connections and was able to find and fix the issues.
 <img src="/Wiring Hand Drawn.jpg" alt="Wiring Sketch" width="400" class="lightbox-trigger  border-4 border-black cursor-pointer hover:opacity-90 transition "/>
 
 
