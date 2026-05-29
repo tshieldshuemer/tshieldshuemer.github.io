@@ -35,7 +35,7 @@ tags:
 
 ### Neue Aufnahme1: 
  <audio controls preload="none">
-  <source src="/audio/neue-aufnahme2.m4a" type="audio/mp4">
+  <source src="/audio/neue-aufnahme2.aac" type="audio/aac">
 </audio>
 
 
@@ -47,6 +47,6 @@ tags:
 
 ### The Trip to Sligo: 
  <audio controls preload="none">
-  <source src="/audio/neue-aufnahme.m4a" type="audio/mp4">
+  <source src="/audio/neue-aufnahme.aac" type="audio/aac">
 </audio>
 
