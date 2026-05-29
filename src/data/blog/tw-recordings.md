@@ -45,7 +45,7 @@ tags:
 ## Clarke D Whistle
 <img src="/TWClarke.jpeg" alt="Clarke Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-### Neue Aufnahme: 
+### The Trip to Sligo: 
  <audio controls preload="none">
   <source src="/audio/neue-aufnahme.m4a" type="audio/mp4">
 </audio>
