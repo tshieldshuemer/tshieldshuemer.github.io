@@ -15,6 +15,7 @@ tags:
 
 ## D Whistle
 <img src="/TW.jpeg" alt="D Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+
  ### The Trip to Sligo: 
  <audio controls preload="none">
   <source src="/audio/trip-to-sligo.aac" type="audio/aac">
@@ -32,12 +33,20 @@ tags:
 <img src="/TWBb.jpeg" alt="Bb Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
+### Neue Aufnahme1: 
+ <audio controls preload="none">
+  <source src="/audio/neue-aufnahme1.m4a" type="audio/mp4">
+</audio>
+
+
 
 -----------------------------------------------------------------------------------
 
 ## Clarke D Whistle
 <img src="/TWClarke.jpeg" alt="Clarke Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-
-
+### Neue Aufnahme: 
+ <audio controls preload="none">
+  <source src="/audio/neue-aufnahme.m4a" type="audio/mp4">
+</audio>
 
