@@ -42,7 +42,7 @@ tags:
 
 -----------------------------------------------------------------------------------
 
-## Clarke D Whistle
+## Clarke C Whistle
 <img src="/TWClarke.jpeg" alt="Clarke Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### The Trip to Sligo: 
