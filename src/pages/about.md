@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
-I'm an Engineering student from Galway, currently studying in Dublin. I'm interested in Energy and Renewables Development amongst other things.  
+I'm an Engineering student from Galway, currently studying in Dublin. I'm interested in the development of Renewable Energy amongst other things.  
 
 <div class="not-prose">
   <img src="/Selfie.jpg" alt="Me" class="border-4 border-black" />
