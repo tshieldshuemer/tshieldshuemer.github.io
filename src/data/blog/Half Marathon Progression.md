@@ -28,6 +28,5 @@ The same dataset but with a polyfit:
 
  <img src="/HM PolyFits.png" alt="Run Data Plot" width="2000" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-I found it quite satisfying to see the tangible increase in both speed and pacing consistency.
  
 
