@@ -54,7 +54,7 @@ tags:
 
 
 ## 3D Printed Whistle
-<img src="/3DWhistle.jpeg" alt="3D Print Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/3DWhistle.jpg" alt="3D Print Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
  
 ### The Templehouse: 
  <audio controls preload="none">
