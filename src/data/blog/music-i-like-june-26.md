@@ -13,19 +13,19 @@ tags:
 
   <img src="/Asfar.png" alt="SongCovers" width="1200" />
   
-## 1. Dünya - Southstar Version
-[spotify link](https://open.spotify.com/intl-de/track/2KKo0m6m11KaLEgDQPSEG5?si=15f43576c41342d5)
+## 1. Midsommar - Vladimir Dubyshkin
+[spotify link](https://open.spotify.com/intl-de/track/6LXmqSMpENJrvaYYAWBb99?si=aae0dcc2aa924a26)
 
-## 2. 2006 - Asfar Shamsi
-[spotify link](https://open.spotify.com/intl-de/track/3nNsjiYiOjhvFwvEPDoACK?si=cf611e7b5c75457e)
+## 2. You - Baron Von Trax Remix
+[spotify link](https://open.spotify.com/intl-de/track/3UvbzpsVknRFW7OweGXQZC?si=ef94d6bd590143ba)
 
 ## 3. Internet - Mitty
-[spotify link](https://open.spotify.com/intl-de/track/7aC0og0wGBisY87cUpEdXG?si=c7fd2e328f814793)
+[spotify link]()
 
  <img src="/Falco.png" alt="SongCovers" width="1200" />
  
 ## 4. La Vida Tombola - Manu Chao
-[spotify link](https://open.spotify.com/intl-de/track/0VoaSozBqaqhukU6TEBJWX?si=14b7230c31d84a6d)
+[spotify link]()
 
 ## 5. Brillantin' Brutal - Falco
-[spotify link](https://open.spotify.com/intl-de/track/5s8qApaZjds49jKB7vvSe1?si=9931ae8b03a649be)
+[spotify link]()
