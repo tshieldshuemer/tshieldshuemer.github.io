@@ -19,6 +19,7 @@ tags:
 ## East of Eden - John Steinbeck
 
 ## Orbital - Samantha Harvey
+At times boring, repetitive, beautiful and moving. 
 
 ## Dubliners - James Joyce
 
