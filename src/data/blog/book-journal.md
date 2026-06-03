@@ -26,10 +26,15 @@ At times boring, repetitive, beautiful and moving.
 ## Das es uns überhaubt gegeben hat - Marco Wanda
 
 ## Intermezzo - Sally Rooney
-
+Nice.
 ## Say Nothing - Patrick Radden Keefe
 
+## Be Useful - Arnold Schwarzenegger 
+
 ## Boulevard Wren and Other Stories - Blindboy Boatclub
+
+## A Little Life - Hanya Yanagihara
+Devestating.
 
 
 
