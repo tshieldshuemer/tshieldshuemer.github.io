@@ -33,8 +33,13 @@ Nice.
 
 ## Boulevard Wren and Other Stories - Blindboy Boatclub
 
+## Eastern Approaches - Fitzroy Maclean
+
 ## A Little Life - Hanya Yanagihara
 Devestating.
+
+## Magnifica Humanitas - Pope Leo XIV
+
 
 
 
