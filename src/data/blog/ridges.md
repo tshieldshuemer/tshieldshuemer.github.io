@@ -25,7 +25,7 @@ tags:
     <img src="/LochNaPeiste.JPG" alt="Loch na Péiste" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
      <img src="/BrightSheep.jpeg" alt="BrightSheep" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
      <img src="/Dip.jpeg" alt="Dip" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
-     <img src="/TwinEyes.jpeg" alt="TwinEyes" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" /
+     <img src="/TwinEyes.jpeg" alt="TwinEyes" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
 
   </div>
 </div>
