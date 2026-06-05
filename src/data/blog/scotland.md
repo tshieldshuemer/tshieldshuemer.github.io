@@ -18,6 +18,6 @@ tags:
     <img src="/GlasBridge.jpg" alt="GlasBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/Coned.jpg" alt="Coned" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/ToTheSkies.jpg" alt="ToTheSkies" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
-     <img src="/GlasgowVictoriaPark.jpg" alt="VictoriaParkView" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
+    
   </div>
 </div>
