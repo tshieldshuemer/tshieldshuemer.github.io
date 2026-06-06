@@ -18,7 +18,7 @@ tags:
     <img src="/GlasBridge.jpg" alt="GlasBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/Coned.jpg" alt="Coned" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/ToTheSkies.jpg" alt="ToTheSkies" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
-    <img src="/"TallTree.jpg" alt="TallTrees" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
+    <img src="/TallTree.jpg" alt="TallTree" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/LochLomond.jpg" alt="LochLomond" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/GlasgowVictoriaPark.jpg" alt="VictoriaPark" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
     <img src="/TreeShrroms.jpg" alt="TreeShrooms" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition" />
