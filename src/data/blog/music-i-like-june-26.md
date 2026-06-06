@@ -4,14 +4,14 @@ pubDatetime: 2026-06-27T04:58:53Z
 title: MOTM June '26
 description: Some songs I've discovered this month
 featured: false
-draft: false
+draft: true
 category: casual
 heroImage: /MOTMMay.png
 tags:
   - Music
 ---
 
-  <img src="/Asfar.png" alt="SongCovers" width="1200" />
+  <img src="/.png" alt="SongCovers" width="1200" />
   
 ## 1. Midsommar - Vladimir Dubyshkin
 [spotify link](https://open.spotify.com/intl-de/track/6LXmqSMpENJrvaYYAWBb99?si=aae0dcc2aa924a26)
@@ -22,7 +22,7 @@ tags:
 ## 3. Internet - Mitty
 [spotify link]()
 
- <img src="/Falco.png" alt="SongCovers" width="1200" />
+ <img src="/.png" alt="SongCovers" width="1200" />
  
 ## 4. La Vida Tombola - Manu Chao
 [spotify link]()
