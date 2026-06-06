@@ -21,6 +21,6 @@ tags:
     <img src="/SkyMills.jpg" alt="Sky Mills" alt="Sky Mills" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Coned.jpg" alt="Coned" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ToTheSkies.jpg" alt="To The Skies" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/TreeShrooms.jpg" alt="Tree Shrooms" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/TreeShrroms.jpg" alt="Tree Shrooms" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
   </div>
 </div>
