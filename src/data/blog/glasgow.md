@@ -22,10 +22,10 @@ tags:
     <img src="/Coned.jpg" alt="Coned" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/TreeShrroms.jpg" alt="Tree Shrooms" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ToTheSkies.jpg" alt="To The Skies" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/CraneScape.jpg" alt="CraneScape" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/NiceRiverSideFlats.jpg" alt="Nice River Side Flats" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HighlandCattle.jpg" alt="Highland Cattle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/NiceAFrameFlats.jpg" alt="Nice A Frame Flats" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/NiceRiverSideFlats.jpg" alt="Nice River Side Flats" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+     <img src="/CraneScape.jpg" alt="CraneScape" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/NightRail.jpg" alt="Night Rail" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/PPWoods.jpg" alt="PP Woods" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/QPRailByDusk.jpg" alt="QP Rail By Dusk" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
