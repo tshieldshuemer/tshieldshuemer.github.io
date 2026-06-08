@@ -19,8 +19,8 @@ tags:
 ## 2. You - Baron Von Trax Remix
 [spotify link](https://open.spotify.com/intl-de/track/3UvbzpsVknRFW7OweGXQZC?si=ef94d6bd590143ba)
 
-## 3. Internet - Mitty
-[spotify link]()
+## 3. Queens Highway - Menahan Street Band
+[spotify link](https://open.spotify.com/intl-de/album/41aeU2fQpLCNn3n1AVqCIF?si=J3thqH8DSDSLxYcw7Vw7CA)
 
  <img src="/.png" alt="SongCovers" width="1200" />
  
