@@ -18,5 +18,6 @@ tags:
     <img src="/BeachCranes.jpg" alt="BeachCranes" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Blades.jpg" alt="Blades" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
       <img src="/Leaky's.jpg" alt="Leaky's" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LochNess.jpg" alt="LochNess" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
   </div>
 </div>
