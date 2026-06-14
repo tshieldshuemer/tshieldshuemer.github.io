@@ -14,8 +14,8 @@ tags:
 
 <div class="not-prose">
   <div class="columns-2 md:columns-3 gap-4 max-w-3xl mx-auto">
-    <img src="/InvernessCastle.jpg" alt="Inverness Castle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BeachCranes.jpg" alt="BeachCranes" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/InvernessBridge.JPG" alt="InvernessBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Blades.jpg" alt="Blades" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/NessLandscape.JPG" alt="NessLandscape" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
       <img src="/Leaky's.jpg" alt="Leaky's" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -32,7 +32,7 @@ tags:
 <img src="/IronRoof.JPG" alt="IronRoof" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/OminousTunnel.JPG" alt="OminousTunnel" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/ThisIsTheSea.JPG" alt="ThisIsTheSea" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-<img src="/InvernessBridge.JPG" alt="InvernessBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/InvernessCastle.jpg" alt="Inverness Castle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/AcrossTheBay.JPG" alt="AcrossTheBay" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     
   </div>
