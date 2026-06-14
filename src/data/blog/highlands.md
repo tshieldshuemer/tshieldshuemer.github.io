@@ -27,9 +27,13 @@ tags:
 <img src="/FollowTheEnergy.JPG" alt="FollowTheEnergy" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/FullRecovery.JPG" alt="FullRecovery" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/GullInFlight.JPG" alt="GullInFlight" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/ShipInPort.JPG" alt="ShipInPort" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/GullNest.JPG" alt="GullNest" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/IronRoof.JPG" alt="IronRoof" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/OminousTunnel.JPG" alt="OminousTunnel" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/ThisIsTheSea.JPG" alt="ThisIsTheSea" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/InvernessBridge.JPG" alt="InvernessBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/AcrossTheBay.JPG" alt="AcrossTheBay" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    
   </div>
 </div>
