@@ -31,6 +31,9 @@ tags:
 <img src="/GullNest.JPG" alt="GullNest" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/IronRoof.JPG" alt="IronRoof" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/OminousTunnel.JPG" alt="OminousTunnel" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisFoothills.JPG" alt="WyvisFoothills" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisClouds.JPG" alt="WyvisClouds" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisMills.JPG" alt="WyvisMills" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/ThisIsTheSea.JPG" alt="ThisIsTheSea" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/InvernessCastle.jpg" alt="Inverness Castle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/AcrossTheBay.JPG" alt="AcrossTheBay" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
