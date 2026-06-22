@@ -16,7 +16,7 @@ tags:
 ## Background
 
 FDM printers release **VOCs *(volatile organic compounds)*** and **UFPs *(ultrafine particles)*** when in use.
-The health impacts of these emissions are still being quantified, so since I run my printer in the same room I sleep in, I decided to err on the side of caution. While my printer features a built-in passive filter, it recirculates rather than purges, and is not effective against VOCs.
+The health impacts of these emissions are still being quantified, so since I run my printer in the same room I sleep in, I decided to err on the side of caution. While my printer features a built-in passive filter, it only recirculates air, and is not effective against VOCs.
 The solution? A fume extractor to purge all fumes outside.
 
 
