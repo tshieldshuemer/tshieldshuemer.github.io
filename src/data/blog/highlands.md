@@ -2,7 +2,7 @@
 author: TSH
 pubDatetime: 2026-06-12T04:58:53Z
 modDatetime: 2026-06-14T04:58:53Z
-title: Highlands
+title: Highlands Vol. 1
 description: ""
 featured: false
 draft: false
@@ -14,8 +14,8 @@ tags:
 
 <div class="not-prose">
   <div class="columns-2 md:columns-3 gap-4 max-w-3xl mx-auto">
-    <img src="/InvernessCastle.jpg" alt="Inverness Castle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BeachCranes.jpg" alt="BeachCranes" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/InvernessBridge.JPG" alt="InvernessBridge" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Blades.jpg" alt="Blades" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/NessLandscape.JPG" alt="NessLandscape" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
       <img src="/Leaky's.jpg" alt="Leaky's" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -27,9 +27,16 @@ tags:
 <img src="/FollowTheEnergy.JPG" alt="FollowTheEnergy" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/FullRecovery.JPG" alt="FullRecovery" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/GullInFlight.JPG" alt="GullInFlight" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/ShipInPort.JPG" alt="ShipInPort" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/GullNest.JPG" alt="GullNest" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/IronRoof.JPG" alt="IronRoof" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/OminousTunnel.JPG" alt="OminousTunnel" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisFoothills.JPG" alt="WyvisFoothills" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisCloud.JPG" alt="WyvisClouds" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/WyvisMills.JPG" alt="WyvisMills" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
 <img src="/ThisIsTheSea.JPG" alt="ThisIsTheSea" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/InvernessCastle.jpg" alt="Inverness Castle" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+<img src="/AcrossTheBay.JPG" alt="AcrossTheBay" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    
   </div>
 </div>
