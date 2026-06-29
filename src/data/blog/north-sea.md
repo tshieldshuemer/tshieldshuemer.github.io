@@ -38,7 +38,6 @@ tags:
     <img src="/Chimneys.JPG" alt="Chimneys" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetBay.JPG" alt="Shet Bay" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LandInSight.JPG" alt="Land In Sight" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-   
     <img src="/RaibowOnExit.jpg" alt="Raibow On Exit" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickHuts.JPG" alt="Lerwick Huts" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/PipeWet.jpg" alt="Pipe Wet" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
