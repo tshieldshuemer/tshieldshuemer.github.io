@@ -18,7 +18,7 @@ tags:
     <img src="/AbPic7.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbCh1.jpg" alt="Aberdeen Church" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
      <img src="/AberdeenPort.jpg" alt="AberdeenPort" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-     <img src="/JollyKing.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+     <img src="/JollyKing.jpg" alt="JK" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic15.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic3.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic13.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -27,7 +27,7 @@ tags:
     <img src="/OilRigModel.jpg" alt="Oil Rig Model" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
      <img src="/Conified.jpg" alt="Conified" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic5.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-     <img src="/DryDock.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+     <img src="/DryDock.jpg" alt="DryDock" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic17.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic4.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic12.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
