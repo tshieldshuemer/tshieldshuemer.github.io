@@ -35,6 +35,7 @@ tags:
     <img src="/AbPic16.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic8.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic14.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+     <img src="/AberdeenPort.jpg" alt="Port" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbPic10.jpg" alt="Aberdeen" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/AbCover.jpg" alt="Aberdeen Cover" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
   </div>
