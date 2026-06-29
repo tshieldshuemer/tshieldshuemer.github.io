@@ -7,7 +7,7 @@ description: ""
 featured: false
 draft: false
 category: casual
-heroImage: /AbCover.jpg
+heroImage: /ShetlandWelcome.jpg
 tags:
   - Photography
 ---
