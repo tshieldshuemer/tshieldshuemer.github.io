@@ -30,7 +30,7 @@ tags:
     <img src="/LStreetTele.jpg" alt="L Street Tele" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Sheared.JPG" alt="Sheared" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HarbourBuouy.jpg" alt="Harbour Buouy" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/AberdeenPort.jpg" alt="Aberdeen Port" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    
     <img src="/StainedGlass.jpg" alt="Stained Glass" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LStreet3.jpg" alt="L Street 3" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Quicksilver.jpg" alt="Quicksilver" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -40,7 +40,6 @@ tags:
     <img src="/Chimneys.JPG" alt="Chimneys" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetBay.JPG" alt="Shet Bay" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LandInSight.JPG" alt="Land In Sight" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/JollyKing.jpg" alt="Jolly King" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/RaibowOnExit.jpg" alt="Raibow On Exit" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickHuts.JPG" alt="Lerwick Huts" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/PipeWet.jpg" alt="Pipe Wet" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -48,7 +47,6 @@ tags:
     <img src="/ShetLighthouse.JPG" alt="Shet Lighthouse" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HousingRows.JPG" alt="Housing Rows" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Labbit.JPG" alt="Labbit" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/DryDock.jpg" alt="Dry Dock" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LStreetCentre.jpg" alt="L Street Centre" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayFalls.JPG" alt="Bressay Falls" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetlandSuit.jpg" alt="Shetland Suit" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
