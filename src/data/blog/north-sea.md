@@ -16,7 +16,7 @@ tags:
     <img src="/YoungGull.JPG" alt="Young Gull" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickMural.png" alt="Lerwick Mural" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/PipeDry.jpg" alt="Pipe Dry" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/BressayTelephone.jpg" alt="Bressay Telephone" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/BressayTelephone.png" alt="Bressay Telephone" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetlandWelcome.jpg" alt="Shetland Welcome" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HighSeas.JPG" alt="High Seas" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LStreet2.jpg" alt="L Street 2" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
@@ -28,7 +28,7 @@ tags:
     <img src="/BressayRoad.JPG" alt="Bressay Road" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LStreetTele.jpg" alt="L Street Tele" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Sheared.JPG" alt="Sheared" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/HarbourBuouy.jpg" alt="Harbour Buouy" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/HarbourBuouy.png" alt="Harbour Buouy" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/StainedGlass.png" alt="Stained Glass" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LStreet3.jpg" alt="L Street 3" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Quicksilver.png" alt="Quicksilver" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
