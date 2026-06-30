@@ -15,26 +15,26 @@ tags:
   <div class="columns-2 md:columns-3 gap-4 max-w-3xl mx-auto">
     <img src="/YoungGull.JPG" alt="Young Gull" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickMural.png" alt="Lerwick Mural" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/PipeDry.jpg" alt="Pipe Dry" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/PipeDry.png" alt="Pipe Dry" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayTelephone.png" alt="Bressay Telephone" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetlandWelcome.jpg" alt="Shetland Welcome" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HighSeas.JPG" alt="High Seas" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/LStreet2.jpg" alt="L Street 2" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LStreet2.png" alt="L Street 2" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/TownHall.png" alt="Town Hall" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/FerryLights.JPG" alt="Ferry Lights" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetHead.JPG" alt="Shet Head" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/KirkwallMoon.jpg" alt="Kirkwall Moon" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ORE.jpg" alt="ORE" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayRoad.JPG" alt="Bressay Road" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/LStreetTele.jpg" alt="L Street Tele" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LStreetTele.png" alt="L Street Tele" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Sheared.JPG" alt="Sheared" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HarbourBuouy.png" alt="Harbour Buouy" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/StainedGlass.png" alt="Stained Glass" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/LStreet3.jpg" alt="L Street 3" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LStreet3.png" alt="L Street 3" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Quicksilver.png" alt="Quicksilver" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayForrest.JPG" alt="Bressay Forrest" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickBay.jpg" alt="Lerwick Bay" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/FortYard.jpg" alt="Fort Yard" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/FortYard.png" alt="Fort Yard" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Chimneys.JPG" alt="Chimneys" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetBay.JPG" alt="Shet Bay" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LandInSight.JPG" alt="Land In Sight" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
