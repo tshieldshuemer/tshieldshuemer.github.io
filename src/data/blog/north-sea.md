@@ -44,12 +44,12 @@ tags:
     <img src="/ShetLighthouse.JPG" alt="Shet Lighthouse" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/HousingRows.JPG" alt="Housing Rows" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Labbit.JPG" alt="Labbit" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/LStreetCentre.jpg" alt="L Street Centre" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LStreetCentre.png" alt="L Street Centre" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayFalls.JPG" alt="Bressay Falls" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetlandSuit.png" alt="Shetland Suit" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/Horizons.JPG" alt="Horizons" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/FishPost.png" alt="Fish Post" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/LStreet1.jpg" alt="L Street 1" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/LStreet1.png" alt="L Street 1" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickMills.JPG" alt="Lerwick Mills" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayFields.JPG" alt="Bressay Fields" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/ShetWard.JPG" alt="Shet Ward" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
