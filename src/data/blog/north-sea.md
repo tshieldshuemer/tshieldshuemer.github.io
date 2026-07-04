@@ -52,6 +52,6 @@ tags:
     <img src="/LStreet1.png" alt="L Street 1" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/LerwickMills.JPG" alt="Lerwick Mills" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
     <img src="/BressayFields.JPG" alt="Bressay Fields" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
-    <img src="/ShetWard.JPG" alt="Shet Ward" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
+    <img src="/ShetWard.png" alt="Shet Ward" loading="lazy" decoding="async" class="lightbox-trigger w-full mb-4 border-4 border-black cursor-pointer hover:opacity-90 transition rounded-sm" />
   </div>
 </div>
