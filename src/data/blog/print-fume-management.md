@@ -1,7 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2026-02-22T04:58:53Z
-modDatetime: 2026-05-18T14:30:00Z
+modDatetime: 2026-07-08T14:30:00Z
 title: Print Extractor Fan
 description: Print fume management project
 featured: true
