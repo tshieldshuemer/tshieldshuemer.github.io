@@ -5,7 +5,7 @@ modDatetime: 2026-06-22T04:58:53Z
 title: Highlands Vol. 2
 description: ""
 featured: false
-draft: false
+draft: true
 category: casual
 heroImage: /InvBay.jpg
 tags:
