@@ -64,3 +64,11 @@ The installed system will operate somewhere along the blower's pressure curve de
 ## Conclusion
 
 V1 was the result of a hobby project done by eye with limited research and resources, and performed accordingly. V2 was the same challenge approached as an engineering problem — specified against requirements, selected against the fan curve, and validated against the predicted turnover.
+
+<model-viewer 
+  src="/models/ExLidExplo.glb" 
+  alt="ExLidExplo" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
