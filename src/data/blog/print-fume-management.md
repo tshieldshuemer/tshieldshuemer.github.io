@@ -1,7 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2026-02-22T04:58:53Z
-modDatetime: 2026-05-18T14:30:00Z
+modDatetime: 2026-07-08T14:30:00Z
 title: Print Extractor Fan
 description: Print fume management project
 featured: true
@@ -12,6 +12,13 @@ tags:
   - CAD
   - Engineering
 ---
+<model-viewer 
+  src="/models/ExLidExplo.glb" 
+  alt="ExLidExplo" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
 
 ## Background
 
@@ -64,3 +71,5 @@ The installed system will operate somewhere along the blower's pressure curve de
 ## Conclusion
 
 V1 was the result of a hobby project done by eye with limited research and resources, and performed accordingly. V2 was the same challenge approached as an engineering problem — specified against requirements, selected against the fan curve, and validated against the predicted turnover.
+
+
