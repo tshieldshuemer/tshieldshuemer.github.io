@@ -33,7 +33,7 @@ tags:
 <img src="/TWBb.jpeg" alt="Bb Whistle" width="1920" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
-### Neue Aufnahme1: 
+### The Wandering Minstrel: 
  <audio controls preload="none">
   <source src="/audio/neue-aufnahme2.aac" type="audio/aac">
 </audio>
