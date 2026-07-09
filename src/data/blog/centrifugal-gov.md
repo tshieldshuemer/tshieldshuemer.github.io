@@ -11,6 +11,14 @@ tags:
   - Engineering
 ---
 
+<model-viewer 
+  src="/models/Centrifugal Governor Assembly.glb" 
+  alt="3D Model" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
+
 ## Background
 
 A year back I visited the Deutsches Technikmuseum in Berlin. While there I saw some old steam engine models and was quite impressed by the simplicity and beauty in the centrifugal governor mechanism used in these machines.
