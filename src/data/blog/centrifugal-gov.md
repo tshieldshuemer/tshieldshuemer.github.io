@@ -1,6 +1,7 @@
 ---
 author: TSH
 pubDatetime: 2025-09-09T04:58:53Z
+modDatetime: 2026-07-07T04:58:53Z
 title: Centrifugal Governor
 description: A 3D printed demo piece
 featured: true
