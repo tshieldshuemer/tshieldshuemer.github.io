@@ -29,6 +29,8 @@ tags:
   model-viewer {
     width: 100%;
     height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
   }
   @media (max-width: 640px) {
     .model-grid {
