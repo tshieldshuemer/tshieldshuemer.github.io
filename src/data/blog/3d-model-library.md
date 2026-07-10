@@ -42,8 +42,18 @@ tags:
 ----------------------------------------------------------------------------------------------------
 
 <model-viewer 
-  src="/models/Dart_Light.glb" 
-  alt="Dart Light" 
+  src="/models/AECase.glb" 
+  alt="Phone Case" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
+
+----------------------------------------------------------------------------------------------------
+
+<model-viewer 
+  src="/models/AECase.glb" 
+  alt="Phone Case" 
   auto-rotate 
   camera-controls 
   style="width: 100%; height: 400px;">
