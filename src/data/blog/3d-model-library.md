@@ -30,7 +30,8 @@ tags:
     width: 100%;
     height: 400px;
     border: 1px solid #ddd;
-    border-radius: 8px;
+    border-radius: 12px;
+    background-color: #f5f5f5;
   }
   @media (max-width: 640px) {
     .model-grid {
