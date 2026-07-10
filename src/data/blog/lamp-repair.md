@@ -12,6 +12,13 @@ tags:
   - CAD
 ---
 
+<model-viewer 
+  src="/models/LamHin.glb" 
+  alt="3D Model" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
 
 <div class="flex gap-4">
   <img src="/Broken.jpg" alt="OldPart" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
