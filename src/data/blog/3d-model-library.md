@@ -18,6 +18,8 @@ tags:
   <model-viewer src="/models/LamHin.glb" alt="Lamp Hinge" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/Dart_Light.glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/AECase.glb" alt="Phone Case" auto-rotate camera-controls></model-viewer>
+  <model-viewer src="/models/TSubermsible Assembly.stl.glb" alt="Phone Case" auto-rotate camera-controls></model-viewer>
+
 </div>
 
 <style>
