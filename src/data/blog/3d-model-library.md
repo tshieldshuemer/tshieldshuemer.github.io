@@ -6,7 +6,7 @@ title: 3D Model Library
 description: Interactive 3D models
 featured: true
 draft: false 
-heroImage: /V1d.png
+heroImage: /AssemblyIcon.png
 tags:
   - CAD
 ---
