@@ -18,8 +18,6 @@ tags:
   <model-viewer src="/models/LamHin.glb" alt="Lamp Hinge" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/Dart_Light.glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/CGov.glb" alt="CGov" auto-rotate camera-controls></model-viewer>
-
-  Centrifugal Governor Assembly.stl (1)
 </div>
 
 <style>
