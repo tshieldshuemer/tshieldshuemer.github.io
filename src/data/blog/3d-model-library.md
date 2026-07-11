@@ -17,7 +17,7 @@ tags:
   <model-viewer src="/models/ExLidExplo.glb" alt="ExLidExplo" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/LamHin.glb" alt="Lamp Hinge" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/Dart_Light.glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
-  <model-viewer src="/Centrifugal Governor Assembly.stl (1).glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
+  <model-viewer src="/CGov.glb" alt="CGov" auto-rotate camera-controls></model-viewer>
 
   Centrifugal Governor Assembly.stl (1)
 </div>
