@@ -31,7 +31,7 @@ tags:
   model-viewer {
     width: 100%;
     height: 400px;
-    border: 1px solid #ddd;
+    border: 4px solid #ddd;
     border-radius: 12px;
     background-color: #f5f5f5;
   }
