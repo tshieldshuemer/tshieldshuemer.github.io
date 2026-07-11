@@ -18,6 +18,7 @@ tags:
   <model-viewer src="/models/LamHin.glb" alt="Lamp Hinge" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/Dart_Light.glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/CentGov.glb" alt="CGov" auto-rotate camera-controls></model-viewer>
+   <model-viewer src="/models/Hinge.glb" alt="Hinge" auto-rotate camera-controls></model-viewer>
 </div>
 
 <style>
