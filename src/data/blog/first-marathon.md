@@ -4,7 +4,7 @@ pubDatetime: 2026-05-11T04:58:53Z
 title: First Marathon
 description: Analysis of my first full Marathon
 featured: false
-draft: false
+draft: true
 category: casual
 heroImage: /MaraPlot.png
 tags:

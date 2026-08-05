@@ -5,6 +5,7 @@ title: Student Diving Entry Expenses
 description: An overview of my kit and service expenses as a new scuba diver in Ireland
 featured: false
 category: casual
+draft: true
 heroImage: /UWthumbnail.JPG
 tags:
   - Scuba

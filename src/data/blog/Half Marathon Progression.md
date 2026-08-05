@@ -4,7 +4,7 @@ pubDatetime: 2026-05-03T04:58:53Z
 title: Half Marathon Progression
 description: Analysis of HM improvement
 featured: false
-draft: false
+draft: true
 category: casual
 heroImage: /HM Track.png
 tags:
