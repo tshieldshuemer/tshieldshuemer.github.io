@@ -5,7 +5,7 @@ modDatetime: 2026-06-08T04:58:53Z
 title: Glasgow
 description: ""
 featured: false
-draft: false
+draft: true
 category: casual
 heroImage: /GlasBridge.jpg
 tags:
