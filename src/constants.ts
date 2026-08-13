@@ -26,12 +26,12 @@ export const SOCIALS: Social[] = [
  //   icon: IconGitHub,
  // },
   
-  {
-    name: "Instagram",
-    href: "https://instagram.com/galwaywest3d",
-    linkTitle: `${SITE.title} on Instagram`,
-    icon: IconInstagram,
-  },
+  //{
+  //  name: "Instagram",
+  //  href: "https://instagram.com/galwaywest3d",
+  //  linkTitle: `${SITE.title} on Instagram`,
+  // icon: IconInstagram,
+  //},
 
   {
     name: "LinkedIn",
@@ -40,12 +40,12 @@ export const SOCIALS: Social[] = [
     icon: IconLinkedin,
   },
 
-  {
-    name: "Strava",
-    href: "https://www.strava.com/athletes/169529127",
-    linkTitle: `${SITE.title} on Strava`,
-    icon: IconStrava,
-  },
+  //{
+ //   name: "Strava",
+ //   href: "https://www.strava.com/athletes/169529127",
+ //   linkTitle: `${SITE.title} on Strava`,
+ //   icon: IconStrava,
+ // },
   
   {
     name: "Mail",

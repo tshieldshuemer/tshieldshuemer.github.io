@@ -1,8 +1,8 @@
 export const SITE = {
-  website: "https://tshieldshuemer.github.io/", // replace this with your deployed domain
+  website: "https://tshieldshuemer.github.io/", 
   author: "Tim Shields-Huemer",
   profile: "https://github.com/tshieldshuemer/",
-  desc: "Personal site of Tim Shields-Huemer — writing, projects, and interests.",
+  desc: "Personal site of Tim Shields-Huemer — projects and interests.",
   title: "Tim Shields-Huemer",
   ogImage: "Collage.png",
   lightAndDarkMode: true,
