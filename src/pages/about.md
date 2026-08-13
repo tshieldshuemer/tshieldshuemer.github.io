@@ -15,10 +15,10 @@ On this page you might find content relating to
 
 - [Engineering](/tags/engineering/)
 - [CAD](/tags/cad/) & [3D Printing](/tags/3d-printing/)
-- [Running](/tags/running/)
-- [Diving](/tags/scuba/)
-- [Music](/tags/music/)
-- [Photography](/tags/photography/)
+// - [Running](/tags/running/)
+// - [Diving](/tags/scuba/)
+// - [Music](/tags/music/)
+// - [Photography](/tags/photography/)
   
 
 <a href="mailto:galwaywest3d@gmail.com" class="inline-block mt-4 px-4 py-2 rounded border border-accent text-accent hover:bg-accent hover:text-background transition">
