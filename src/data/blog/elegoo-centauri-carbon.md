@@ -4,7 +4,7 @@ pubDatetime: 2026-05-11T04:58:53Z
 title: Elegoo Centauri Carbon
 description: An overview of my 3D Printer
 featured: false
-draft: false
+draft: true
 heroImage: /CentauriCarbon.png
 tags:
   - 3D Printing
