@@ -5,12 +5,17 @@ modDatetime: 2026-11-15T00:53:53Z
 title: Poolbeg Arena
 description: Multipurpose Olympic Ice Arena & Event Venue
 featured: true
-heroImage: /CentGovRender.png
+heroImage: /3D Peeled.png
 tags:
   - Architecture
   - CAD
   - Engineering
 ---
+
+
+<img src="/3D Peeled.png" alt="Model Render" width="300" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+
+<img src="/Stadium Facade Render BG Removed.png" alt="Model Render" width="300" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
 ## Overview
 
 This page covers my section of an 84 page group report, completed as part of a 3rd year civil engineering group project, in which we were tasked to choose a site within Dublin city to develop and design a multi-purpose arena. The brief required the arena to host at least one olympic ice rink, with a minimum seated capacity of 5,000 or a standing capacity of 8,000. 
