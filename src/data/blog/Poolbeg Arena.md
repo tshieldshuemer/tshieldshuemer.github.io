@@ -121,11 +121,11 @@ The ground floor of the arena houses both the professional and the public ice ri
 Revolving doors to the left control entry to the public rink, and limit air exchange/heat transfer between the colder rink spaces and the lobby area as the doors are never fully open as in a swing door.
 A secondary entrance on the north-east of the plan is used solely for event entry, with both entrances having a WC block. 
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-00-DR-A-0004-GF WC Detail.png" alt="WC Detail" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 The north and north-west sections of the ground floor are separated from the public and house team entry, locker rooms & facilities as well as resurfacer/zamboni storage & maintenance. As per the IIHF manual, team facilities are identical for both sides, with a central hallway between the two leading to the player tunnel/main rink.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-00-DR-A-0002-Team Area & Zambonis.png" alt="Team Area & Zambonis" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 The resurfacer room is located between the two rinks, allowing for shared use. It houses the melt pit as well as two Zambonis. This design was decided upon as it allows for redundancy in case of a resurfacer breakdown and a sharing of utilities.
 The refrigeration plant is housed within the space under the first tier of the seating bowl.
