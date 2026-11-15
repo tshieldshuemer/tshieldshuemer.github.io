@@ -157,12 +157,12 @@ The first floor is the level of entry for the lower seating tier, and additional
 
 ### 7.9. Second Floor 
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Second Floor Plan.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 The second floor is the level of entry for the upper seating tier and features a smaller bar as well as four kiosks. 
 
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-02-DR-A-0003-Bar & WC Detail.png" alt="Second Floor Bar & WC" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.10. Seating Bowl
 
