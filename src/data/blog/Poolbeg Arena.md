@@ -51,14 +51,14 @@ architectural preliminary sketches were done in order to define the general over
 shape.
 
 
-<img src="/Sketches.png" alt="ISO 19650 table" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Sketches.png" alt="Hand Sketches" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.2. Rink Design 
 
 The main rink was designed in line with the IIHF manual. A size of 60 m x 30 m with an 8.5 m corner fillet was selected - the largest official dimensions. This was done to avoid controversy over a narrower play zone (as was seen at the Milan–Cortina 2026 Winter Olympics), while a wider arc radius also allows for easier resurfacing.
 The rink itself was modelled in Solidworks to allow for more precise dimensioning and control and was then imported into Revit through a IFC linking.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/SW Rink.png" alt="SW Rink" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
 •	“The ideal height of the boards above the ice surface shall be 1.07 m.”
@@ -75,9 +75,9 @@ Player Benches:
 •	“The Players’ Benches shall be placed immediately alongside the ice as near to the centre of the Rink as possible.”
 •	“Each Players’ Bench should be 10m in length and 1.50m in width and when situated in the spectator area, shall be separated from the spectators by a Protective Glass to afford the necessary protection for the Players and Team Personnel.”
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/SW Player Bench.png" alt="SW Player Bench" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/IIHF Rink Layout.png" alt="IIHF Rink Layout" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
 Penalty Boxes:
@@ -85,9 +85,8 @@ Penalty Boxes:
 •	“Each “Penalty Box” should be at least 4.0m in length and 1.50m in width and shall be separated from the spectators by a Protective Glass”
 •	“Must be of the same size and quality, offering no advantage to either Team in any manner and must have only one door for both entry and exit.”
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/SW Penalty Box.png" alt="SW Penalty Box" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.3. Bowl Design 
 
