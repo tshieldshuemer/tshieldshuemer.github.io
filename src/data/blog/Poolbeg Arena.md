@@ -183,17 +183,17 @@ The rink boards can be stowed away and ice slab covered with rubber mats to allo
 
 ### 7.12. First Person Perspectives
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Stage View.png" alt="Stage Perspective" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/2F Perspective.png" alt="Upper Bowl Perspective" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Tunnel View.png" alt="Player Tunnel Perspective" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Center Ice View.png" alt="Center Ice Perspective" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.13. Exterior Elevation & Plan
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Elevation & Plan.png" alt="Exterior Plan & Elevation" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.14. Sectional Renders
 
