@@ -33,18 +33,25 @@ Sheets produced in this section of the report have been produced and managed in 
 
 <img src="/ISO 19650.png" alt="ISO 19650 table" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
+Alongside this, a basic sheet Revision system was used to document design changes
+and keep team members up to date With the latest revision. Each new revision set is
+simply incremented, i.e. RI R2 R3...
+
 ### 7.1. Design Inspiration 
 
 The stadiums façade design takes inspiration from the blue mussel, which is native to Ireland and is commonly found along the coasts of Dublin, reflecting the arenas seaside location overlooking Sandymount Beach.
 
 <div class="flex gap-4">
   <img src="/MusselPainted.jpg" alt="Mussel Painted" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
-  <img src="/SB2.png" alt="Sketch" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+  <img src="/SB2.jpg" alt="Sketch" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 </div>
 
-Alongside this, a basic sheet Revision system was used to document design changes
-and keep team members up to date With the latest revision. Each new revision set is
-simply incremented, i.e. RI R2 R3...
+Once the arena's primary functions and contents were established, some rough
+architectural preliminary sketches were done in order to define the general overall
+shape.
+
+
+<img src="/Sketches.png" alt="ISO 19650 table" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.2. Rink Design 
 
