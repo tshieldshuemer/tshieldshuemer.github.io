@@ -166,13 +166,13 @@ The second floor is the level of entry for the upper seating tier and features a
 
 ### 7.10. Seating Bowl
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/seating_tiers_colour_coded.png" alt="Seating Diagram" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 The lower tier of the bowl has 2,607 permanent seats, as well as 67 accessible seats, each with a companion seat. The upper tier has 2380 seats, giving a total seated capacity of 5,440 when combined with the stage seating.
 Standing Capacity:
 The rink boards can be stowed away and ice slab covered with rubber mats to allow for other events; the configuration below is an example. The rink area (dark grey) is 1,830 m². The example below takes 340 m² for the stage setup. Taking a density of circa 2 persons/ m², the remaining area of 1490 m² can accommodate up to nearly 3000 people standing.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Stage Cleared.png" alt="Centre Stage" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
 ### 7.11. Sectional Elevations
