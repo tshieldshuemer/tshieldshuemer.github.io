@@ -25,7 +25,7 @@ My role within the team of 5 was to design the stadium itself, covering architec
 
 I also coordinated with team members regarding design choices that had impacts on traffic assessment, fire safety, univeral design, U-values, energy efficiency and material sustainability.
 
-<img src="/MechGov.png" alt="Model Render" width="300" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+<img src="/Stage Section Realistc.png" alt="Stage Facing Section" width="300" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
 
 ### 7.0. Naming Convention 
 
