@@ -105,15 +105,18 @@ Alongside rake, the bowl design considered C-values, the vertical clearance betw
 A minimum C-Value of 90 mm was decided upon, in line with SGSA guidance, to maintain a good view for spectators, while keeping the rake angle and overall bowl height within regulation.
 An eye height of 1.2m above the tread was used in C-Value calculations, taken from 0.5m behind the row front edge of each tier, with the focal point set at the top of the nearside kickboards.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<div class="flex gap-4">
+  <img src="/Rake Angle.png" alt="Rake Angle" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/C-Value.png" alt="C-Value" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+</div>
 
 ### 7.5. Ground Floor 
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/GF Plan R5.png" alt="Ground Floor" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 The ground floor of the arena houses both the professional and the public ice rinks, (both full sized 60 x 30 m). The main arena entrance and lobby is located on the south side of the plan, with three sets of turnstiles to control entry for events. Revolving turnstiles to the right of the lobby allow for one way exit.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-00-DR-A-0003-Main Entrance.png" alt="Main Entrance Detail" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 Revolving doors to the left control entry to the public rink, and limit air exchange/heat transfer between the colder rink spaces and the lobby area as the doors are never fully open as in a swing door.
 A secondary entrance on the north-east of the plan is used solely for event entry, with both entrances having a WC block. 
