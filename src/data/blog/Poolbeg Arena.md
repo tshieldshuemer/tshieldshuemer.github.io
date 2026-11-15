@@ -1,7 +1,7 @@
 ---
 author: TSH
-pubDatetime: 2026-11-15T04:58:53Z
-modDatetime: 2026-11-15T04:58:53Z
+pubDatetime: 2026-11-15T00:53:53Z
+modDatetime: 2026-11-15T00:53:53Z
 title: Poolbeg Arena
 description: Multipurpose Olympic Ice Arena & Event Venue
 featured: true
