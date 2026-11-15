@@ -14,7 +14,7 @@ tags:
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 
 <div class="model-grid">
-  <model-viewer src="/models/Stadium.glb" alt="Stadium" auto-rotate camera-controls></model-viewer>
+  <model-viewer src="/models/Final_FBX_Export_compressed.glb" alt="Stadium" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/ExLidExplo.glb" alt="ExLidExplo" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/LamHin.glb" alt="Lamp Hinge" auto-rotate camera-controls></model-viewer>
   <model-viewer src="/models/Dart_Light.glb" alt="Dart Light" auto-rotate camera-controls></model-viewer>
