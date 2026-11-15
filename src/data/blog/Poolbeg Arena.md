@@ -92,7 +92,10 @@ Penalty Boxes:
 
 At a seated capacity over 5000, it was decided to split the seating into an upper and lower concourse, allowing for steeper seat tiering while maintaining adequate C-Values, while simultaneously allowing for a circulation gangway at the top of the first tier.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<div class="flex gap-4">
+  <img src="/Seating Bowl Geometry.png" alt="Seating Bowl Geometry" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/Early Shell 3D.png" alt="Early Shell" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+</div>
 
 ### 7.4. Rake Angle & Sight Lines
 
