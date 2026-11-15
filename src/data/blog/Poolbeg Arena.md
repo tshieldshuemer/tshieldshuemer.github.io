@@ -153,7 +153,7 @@ Movement between floors is primarily facilitated by two circulation cores, one o
 
 The first floor is the level of entry for the lower seating tier, and additionally features the main bar and restaurant, as well as two WC blocks and four kiosks to serve food & drink during events.
 
-<img src="/DCS00-CVE-ZZ-02-DR-A-0003-Bar & WC Detail.png" alt="Bar & WC Detail " width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-01-DR-A-0002-Kitchen & Bar Detail.png" alt="Kitchen, Bar & WC Detail " width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.9. Second Floor 
 
