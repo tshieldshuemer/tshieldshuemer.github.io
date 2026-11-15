@@ -25,13 +25,13 @@ My role within the team of 5 was to design the stadium itself, covering architec
 
 I also coordinated with team members regarding design choices that had impacts on traffic assessment, fire safety, univeral design, U-values, energy efficiency and material sustainability.
 
-<img src="/Stage Section Realistc.png" alt="Stage Facing Section" width="1000" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+<img src="/Stage Section Realistc.png" alt="Stage Facing Section" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
 
 ### 7.0. Naming Convention 
 
 Sheets produced in this section of the report have been produced and managed in line with BS EN ISO 19650-2 (with the amendment that 4-digit sheet numbers are used rather than 6)
 
-<img src="/Gov2.png" alt="Cad Model & Print" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/ISO 19650.png" alt="ISO 19650 table" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 ### 7.1. Design Inspiration 
 
