@@ -137,7 +137,7 @@ A backstage area acts as back of house for the arena, with large roller doors an
 The stage is designed to be convertible, with a telescopic seating stand along its back wall. 
 The telescopic stands have a capacity of 192 seats, while folding chairs placed on the stage add an additional 260 potential seats, though at flat elevation the view may be poor for back rows.
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/Stage Conversion.png" alt="Stage Conversion" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
 
 
 ### 7.7. Circulation
