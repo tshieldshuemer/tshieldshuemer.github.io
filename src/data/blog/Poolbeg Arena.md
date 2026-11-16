@@ -145,7 +145,12 @@ The telescopic stands have a capacity of 192 seats, while folding chairs placed 
 Movement between floors is primarily facilitated by two circulation cores, one on the north side and one on the south side of the arena. Each core features 8 high capacity KONE Transys DX lifts, as well as two stairwells. Additional staircases facilitate movement on the east and west sides.
 
 
-<img src="/CentGovRender.png" alt="Cad Render" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+<img src="/DCS00-CVE-ZZ-02-DR-A-0002-Circulation Core Detail.png" alt="Circulation Core Detail" width="1200" class="lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+
+<div class="flex gap-4">
+  <img src="/Transys Plan.png" alt="Rake Angle" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition" />
+  <img src="/NGFS.png" alt="North Ground Floor Stairs" class="w-1/2 lightbox-trigger border-4 border-black cursor-pointer hover:opacity-90 transition"/>
+</div>
 
 ### 7.8. First Floor 
 
