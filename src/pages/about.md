@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
-I am a Civil, Structural & Environmental Engineering student from Galway, currently studying in Dublin. I'm interested in renewable energy development amongst other things.  
+I am a Civil, Structural & Environmental Engineering student from Galway, currently studying in Dublin. I'm interested in renewable energy development and sustainable innovation in construction materials.
 
 <div class="not-prose">
   <img src="/Selfie.jpg" alt="Me" class="border-4 border-black" />
