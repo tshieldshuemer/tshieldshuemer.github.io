@@ -5,7 +5,7 @@ title: "About Me"
 I am a Civil, Structural & Environmental Engineering student from Galway, currently studying in Dublin. I'm interested in renewable energy development and sustainable innovation in construction materials.
 
 <div class="not-prose">
-  <img src="/2Selfie.jpeg" alt="Me" class="border-4 border-black" />
+  <img src="/2Selfie.jpeg" alt="Me" class="w-40 h-40 object-cover border-4 border-black" />
 </div>
 
 
